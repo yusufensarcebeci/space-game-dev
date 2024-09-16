@@ -1,0 +1,396 @@
+16.09.2024 16:07:32 - verbose: Arguments:
+16.09.2024 16:07:32 - verbose:   D:\cocos-dashboard-editors\Creator\3.7.3\CocosCreator.exe: true
+16.09.2024 16:07:32 - verbose:   project: D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev
+16.09.2024 16:07:32 - verbose:   can-show-upgrade-dialog: true
+16.09.2024 16:07:32 - verbose:   dev: false
+16.09.2024 16:07:32 - verbose:   home: C:\Users\Yusuf\.CocosCreator
+16.09.2024 16:07:32 - verbose:  
+16.09.2024 16:07:37 - verbose: [Package] menu@1.0.0 enable
+16.09.2024 16:07:37 - verbose: [Package] profile@1.0.0 enable
+16.09.2024 16:07:37 - verbose: [Package] project@1.0.4 enable
+16.09.2024 16:07:37 - verbose: [Package] messages@1.0.0 enable
+16.09.2024 16:07:37 - verbose: [Package] program@1.0.3 enable
+16.09.2024 16:07:37 - verbose: [Package] tester@1.0.0 enable
+16.09.2024 16:07:37 - verbose: [Package] information@1.0.0 enable
+16.09.2024 16:07:37 - verbose: [Package] preferences@1.0.0 enable
+16.09.2024 16:07:40 - log: Load engine in D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine
+16.09.2024 16:07:40 - log: Register native engine in D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\native
+16.09.2024 16:07:40 - verbose: [Package] engine@1.0.7 enable
+16.09.2024 16:07:42 - verbose: [Package] programming@1.0.0 enable
+16.09.2024 16:07:42 - verbose: [Package] device@1.0.1 enable
+16.09.2024 16:07:42 - verbose: [Package] ui-kit@1.0.1 enable
+16.09.2024 16:07:42 - verbose: [Package] asset-db@1.0.0 enable
+16.09.2024 16:07:42 - verbose: [Package] scene@1.0.0 enable
+16.09.2024 16:07:42 - verbose: [Package] server@1.0.0 enable
+16.09.2024 16:07:42 - verbose: [Package] utils@1.0.0 enable
+16.09.2024 16:07:49 - verbose: [Package] preview@1.0.1 enable
+16.09.2024 16:07:49 - verbose: [Package] animator@1.0.0 enable
+16.09.2024 16:07:49 - verbose: [Build-plugin] register pkg scene: 3ms
+16.09.2024 16:07:49 - verbose: Builder PluginManager init: 3ms
+16.09.2024 16:07:49 - verbose: [Package] builder@1.3.5 enable
+16.09.2024 16:07:49 - verbose: [Package] shortcuts@1.0.1 enable
+16.09.2024 16:07:49 - verbose: [Package] animation-graph@1.0.0 enable
+16.09.2024 16:07:49 - verbose: [Package] about@1.0.2 enable
+16.09.2024 16:07:49 - verbose: [Package] assets@1.0.0 enable
+16.09.2024 16:07:49 - verbose: [Package] console@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] crash-reporter@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] extension@3.1.1 enable
+16.09.2024 16:07:50 - verbose: [Package] hierarchy@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] inspector@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] light-probe@1.0.4 enable
+16.09.2024 16:07:50 - verbose: [Package] lightmap@1.0.4 enable
+16.09.2024 16:07:50 - verbose: [Package] node-library@1.0.1 enable
+16.09.2024 16:07:50 - verbose: [Package] package-asset@1.0.1 enable
+16.09.2024 16:07:50 - verbose: [Package] process@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] reference-image@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] reflection-probe@1.0.4 enable
+16.09.2024 16:07:50 - verbose: [Package] engine-extends@1.0.0 enable
+16.09.2024 16:07:50 - verbose: [Package] alipay-mini-game@1.0.1 enable
+16.09.2024 16:07:50 - verbose: [Package] android@1.0.1 enable
+16.09.2024 16:07:51 - verbose: [Package] bytedance-mini-game@1.0.2 enable
+16.09.2024 16:07:51 - verbose: [Package] certificate@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] channel-upload-tools@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] fb-instant-games@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] huawei-agc@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] huawei-quick-game@1.0.1 enable
+16.09.2024 16:07:51 - verbose: [Package] ios@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] linux@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] mac@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] native@1.0.2 enable
+16.09.2024 16:07:51 - verbose: [Build-plugin] register pkg native: 121ms
+16.09.2024 16:07:51 - verbose: [Package] ohos@1.0.0 enable
+16.09.2024 16:07:51 - verbose: [Package] im-plugin@3.0.12 enable
+16.09.2024 16:07:52 - verbose: [Package] cocos-service@3.0.7 enable
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg cocos-service: 98ms
+16.09.2024 16:07:52 - verbose: [Package] open-harmonyos@1.0.0 enable
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg bytedance-mini-game: 1172ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg android: 1249ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg alipay-mini-game: 1281ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg fb-instant-games: 1110ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg huawei-agc: 1086ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg mac: 985ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg huawei-quick-game: 1065ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg ios: 1040ms
+16.09.2024 16:07:52 - verbose: [Package] oppo-mini-game@1.0.1 enable
+16.09.2024 16:07:52 - verbose: [Package] runtime-dev-tools@1.0.0 enable
+16.09.2024 16:07:52 - verbose: [Package] taobao-creative-app@1.0.0 enable
+16.09.2024 16:07:52 - verbose: [Package] taobao-mini-game@1.0.0 enable
+16.09.2024 16:07:52 - verbose: [Package] vivo-mini-game@1.0.1 enable
+16.09.2024 16:07:52 - verbose: [Package] web-desktop@1.0.1 enable
+16.09.2024 16:07:52 - verbose: [Package] web-mobile@1.0.1 enable
+16.09.2024 16:07:52 - verbose: [Package] wechatgame@1.0.2 enable
+16.09.2024 16:07:52 - verbose: [Package] wechatprogram@1.0.2 enable
+16.09.2024 16:07:52 - verbose: [Package] windows@1.0.1 enable
+16.09.2024 16:07:52 - verbose: [Package] xiaomi-quick-game@1.0.1 enable
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg oppo-mini-game: 319ms
+16.09.2024 16:07:52 - verbose: [Package] placeholder@1.0.0 enable
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg vivo-mini-game: 307ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg web-mobile: 316ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg wechatgame: 306ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg web-desktop: 407ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg windows: 336ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg xiaomi-quick-game: 314ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg ohos: 1467ms
+16.09.2024 16:07:52 - verbose: [Build-plugin] register pkg taobao-mini-game: 617ms
+16.09.2024 16:07:52 - verbose: asset-db is ready!
+16.09.2024 16:07:58 - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+16.09.2024 16:07:58 - info: [Scene] [PHYSICS]: using builtin.
+16.09.2024 16:07:58 - log: [Scene] Cocos Creator v3.7.3
+16.09.2024 16:07:58 - info: [Scene] Forward render pipeline initialized.
+16.09.2024 16:07:58 - warn: [Scene] The type of "GameManager.difficultyMultiplier" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "GameManager.difficultyMultiplier" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "GameManager.difficultyIncreaseRate" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "GameManager.difficultyIncreaseRate" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "GameManager.maxDifficulty" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "GameManager.maxDifficulty" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "ScoreHandler.incrementInterval" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "ScoreHandler.incrementInterval" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "EnemyManager.poolSize" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.poolSize" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "EnemyManager.spawnRangeX" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.spawnRangeX" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "EnemyManager.spawnRangeY" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.spawnRangeY" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "EnemyManager.zOffset" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.zOffset" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "EnemyManager.moveSpeed" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.moveSpeed" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "SceneFrame.poolSize" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "SceneFrame.poolSize" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "SceneFrame.zOffset" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "SceneFrame.zOffset" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "SceneFrame.moveSpeed" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "SceneFrame.moveSpeed" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "JoystickController.joystickRadius" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "JoystickController.joystickRadius" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - warn: [Scene] The type of "Player.movementSpeed" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "Player.movementSpeed" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:58 - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+16.09.2024 16:07:58 - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+16.09.2024 16:07:59 - warn: [Scene] The type of "GameManager.difficultyMultiplier" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "GameManager.difficultyMultiplier" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "GameManager.difficultyIncreaseRate" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "GameManager.difficultyIncreaseRate" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "GameManager.maxDifficulty" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "GameManager.maxDifficulty" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "ScoreHandler.incrementInterval" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "ScoreHandler.incrementInterval" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "EnemyManager.poolSize" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.poolSize" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "EnemyManager.spawnRangeX" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.spawnRangeX" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "EnemyManager.spawnRangeY" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.spawnRangeY" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "EnemyManager.zOffset" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.zOffset" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "EnemyManager.moveSpeed" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "EnemyManager.moveSpeed" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "SceneFrame.poolSize" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "SceneFrame.poolSize" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "SceneFrame.zOffset" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "SceneFrame.zOffset" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "SceneFrame.moveSpeed" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "SceneFrame.moveSpeed" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "JoystickController.joystickRadius" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "JoystickController.joystickRadius" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:07:59 - warn: [Scene] The type of "Player.movementSpeed" must be CCFloat or CCInteger, not Number.Error: [Scene] The type of "Player.movementSpeed" must be CCFloat or CCInteger, not Number.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at parseType (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288294:11)
+    at preprocessAttrs (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:288422:11)
+    at declareProperties (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152502:7)
+    at CCClass (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:152539:5)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:286259:21)
+16.09.2024 16:21:45 - error: [Assets] Failed to load image file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/models/textures/Default_OBJ_baseColor.png: Error: ENOENT: no such file or directory, open 'D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\textures\Default_OBJ_baseColor.png'[Assets] Failed to load image file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/models/textures/Default_OBJ_baseColor.png: Error: ENOENT: no such file or directory, open 'D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\textures\Default_OBJ_baseColor.png'  
+at Object.error (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1311)  
+at o (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\importer\importers\gltf\image.ccc:1:2006)  
+at GltfImageImporter.import (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\importer\importers\gltf\image.ccc:1:2848)
+16.09.2024 16:33:08 - error: [Assets] Failed to load image file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/models/textures/Default_OBJ_baseColor.png: Error: ENOENT: no such file or directory, open 'D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\textures\Default_OBJ_baseColor.png'[Assets] Failed to load image file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/models/textures/Default_OBJ_baseColor.png: Error: ENOENT: no such file or directory, open 'D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\textures\Default_OBJ_baseColor.png'  
+at Object.error (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1311)  
+at o (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\importer\importers\gltf\image.ccc:1:2006)  
+at GltfImageImporter.import (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\importer\importers\gltf\image.ccc:1:2848)
+16.09.2024 16:33:09 - warn: [Assets] The uuid is already pointing to another resource.
+[
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\license.txt",
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\license.txt"
+]
+The file uuid has been updated: D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\license.txt
+    7c1ea82f-a697-4e71-8f74-213d41d48ede -> b9636127-bb1e-4751-917f-42c56a9c61b6[Assets] The uuid is already pointing to another resource.
+[
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\license.txt",
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\license.txt"
+]
+The file uuid has been updated: D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\license.txt
+    7c1ea82f-a697-4e71-8f74-213d41d48ede -> b9636127-bb1e-4751-917f-42c56a9c61b6  
+The file uuid has been updated: D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\license.txt  
+7c1ea82f-a697-4e71-8f74-213d41d48ede -> b9636127-bb1e-4751-917f-42c56a9c61b6  
+at Object.encode (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1412)  
+at AssetDB._replaceUUID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:564:25)  
+at AssetDB._checkAssetsStatSync (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:617:26)  
+at AssetDB.refresh (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:505:18)  
+at AssetDBManager._refresh (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\builtin\asset-db\dist\worker\asset-db-manager.ccc:1:5077)  
+at AssetDBManager.step (D:\cocos-dashboard-editors\Creator\3.7.3\resources\app.asar\builtin\asset-db\dist\worker\asset-db-manager.ccc:1:9758)
+16.09.2024 16:34:26 - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+16.09.2024 16:34:26 - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+16.09.2024 16:35:55 - warn: [Scene] Can't find a texture format supported by the current platform! Please add a fallback format in the editor.Error: [Scene] Can't find a texture format supported by the current platform! Please add a fallback format in the editor.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at ImageAsset._deserialize (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:143981:13)
+    at _Deserializer._deserializeInto (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54794:20)
+    at _Deserializer._deserializeTypeTaggedObject (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54760:18)
+    at _Deserializer._deserializeObject (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54675:29)
+    at _Deserializer.deserialize (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54645:42)
+16.09.2024 16:35:55 - error: [Scene] The asset 3d7449a4-89fa-4974-9881-aeb667f3219d@40586 is invalid for some reason and will be reverted to default asset, please check it out!Error: [Scene] The asset 3d7449a4-89fa-4974-9881-aeb667f3219d@40586 is invalid for some reason and will be reverted to default asset, please check it out!
+    at error (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171191:12)
+    at Task.onComplete (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:139537:13)
+    at Task.dispatch (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141380:22)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:140269:22)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:139448:7)
+    at forEach (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141933:7)
+    at load (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:139411:5)
+16.09.2024 16:37:06 - warn: [Scene] Can't find a texture format supported by the current platform! Please add a fallback format in the editor.Error: [Scene] Can't find a texture format supported by the current platform! Please add a fallback format in the editor.
+    at warn (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171173:12)
+    at warnID (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171392:5)
+    at ImageAsset._deserialize (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:143981:13)
+    at _Deserializer._deserializeInto (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54794:20)
+    at _Deserializer._deserializeTypeTaggedObject (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54760:18)
+    at _Deserializer._deserializeObject (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54675:29)
+    at _Deserializer.deserialize (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:54645:42)
+16.09.2024 16:37:06 - error: [Scene] The asset 3d7449a4-89fa-4974-9881-aeb667f3219d@40586 is invalid for some reason and will be reverted to default asset, please check it out!Error: [Scene] The asset 3d7449a4-89fa-4974-9881-aeb667f3219d@40586 is invalid for some reason and will be reverted to default asset, please check it out!
+    at error (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:171191:12)
+    at Task.onComplete (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:139537:13)
+    at Task.dispatch (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141380:22)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:140269:22)
+    at eval (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:139448:7)
+    at forEach (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:141933:7)
+    at load (D:\cocos-dashboard-editors\Creator\3.7.3\resources\resources\3d\engine\bin\.cache\dev\editor\bundled\index.js:139411:5)
+16.09.2024 16:39:27 - error: [Window] ENOENT: no such file or directory, open 'D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\license.txt'Error: ENOENT: no such file or directory, open 'D:\CocosProjects\bionluk\muratcanko\SpaceGame_Dev\assets\models\license.txt'
+16.09.2024 16:43:29 - warn: Please set the application in Preferences -> External Programs -> Default Script Editor to better open the script
+16.09.2024 16:56:54 - warn: Metrics: no valid info

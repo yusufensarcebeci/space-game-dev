@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame/SpaceGame3D/assets/scripts/Props.ts"],"names":["Props"],"mappings":";;;;;;;;;;;;;;uBAAMA,K,GAAQ,E","sourcesContent":["const Props = {\r\n\r\n    \r\n}\r\n\r\nexport{Props}\r\n"]}

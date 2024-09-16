@@ -1,0 +1,466 @@
+{
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts.meta": {
+    "time": 1725028972964.4424
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts": {
+    "time": 1725447791765.3098,
+    "uuid": "d3c71145-621f-4e40-a6f7-c7f7da6d3a3a",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\fonts.meta": {
+    "time": 1725028988864.6794
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\fonts": {
+    "time": 1725028988856.1663,
+    "uuid": "51ea508b-8e3b-47de-80e3-cc33a4914008",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\models.meta": {
+    "time": 1725028993357.6252
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\models": {
+    "time": 1725028993349.1384,
+    "uuid": "f55286f8-95b3-4702-b00b-be640da47243",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\prefabs.meta": {
+    "time": 1725029009083.1714
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\prefabs": {
+    "time": 1725185556023.8887,
+    "uuid": "e085360b-ec37-47d1-a20e-a703483e1695",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\GameManager.ts.meta": {
+    "time": 1725029021374.8916
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\GameManager.ts": {
+    "time": 1725291365686.109,
+    "uuid": "33ad0d58-aeb9-4c48-bc1f-82ad83464985",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scene.scene.meta": {
+    "time": 1725029228379.9458
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scene.scene": {
+    "time": 1725449586874.6677,
+    "uuid": "ff2f1fbb-58db-4216-a575-de39ff9009a9",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\JoystickController.ts.meta": {
+    "time": 1725029891976.7336
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\JoystickController.ts": {
+    "time": 1725291404405.8872,
+    "uuid": "b07d6a8e-3095-41d6-8ad1-05d63c803054",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites.meta": {
+    "time": 1725030504429.544
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites": {
+    "time": 1725263360889.4587,
+    "uuid": "fed0b684-97be-47e8-b996-6c08a1a4a090",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\circle.png.meta": {
+    "time": 1725030601368.7932
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\circle.png": {
+    "time": 1725030588970.0012,
+    "uuid": "4155494b-79a5-412d-9eae-f10800530b06",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\Player.ts.meta": {
+    "time": 1725101240096.9272
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\Player.ts": {
+    "time": 1725291368970.953,
+    "uuid": "02516e3d-44ba-46fe-9173-25efa028b1d5",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\cubemap.cubemap.meta": {
+    "time": 1725107056444.2476
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\cubemap.cubemap": {
+    "time": 1725107056432.102,
+    "uuid": "5dd39c7d-e4e4-4eda-977f-790029ecc445",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\space_cubemap.png.meta": {
+    "time": 1725107488598.9978
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\space_cubemap.png": {
+    "time": 1725107161210.2854,
+    "uuid": "a2984473-ea1d-4f3b-9839-fbfbbe1ac9fd",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\joystick.png.meta": {
+    "time": 1725107945479.6338
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\joystick.png": {
+    "time": 1725107897982.8271,
+    "uuid": "8d194fcb-e5a3-4218-8fa9-3acb4cd49451",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\prefabs\\Enemy.prefab.meta": {
+    "time": 1725112305931.9998
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\prefabs\\Enemy.prefab": {
+    "time": 1725217321261.2366,
+    "uuid": "f732030b-5c4a-4ce3-8868-46d569a9653a",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\EnemyManager.ts.meta": {
+    "time": 1725112394453.1213
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\EnemyManager.ts": {
+    "time": 1725291378338.325,
+    "uuid": "b73b3009-fa7c-4ca0-9aac-a0d168f4b16a",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials.meta": {
+    "time": 1725113735688.5999
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials": {
+    "time": 1725195666998.6167,
+    "uuid": "025b6574-c407-4ca3-9f24-ecac6589f6b6",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\enemy_material.mtl.meta": {
+    "time": 1725124582394.9824
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\enemy_material.mtl": {
+    "time": 1725127529068.7043,
+    "uuid": "024bf8ee-e256-4841-b14e-c3ed63382b91",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\Camera.ts.meta": {
+    "time": 1725132585698.2903
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\Camera.ts": {
+    "time": 1725449595999.632,
+    "uuid": "5358396c-df97-46ab-b729-6b2d947209b6",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\player_material_1.mtl.meta": {
+    "time": 1725135045434.956
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\player_material_1.mtl": {
+    "time": 1725135155588.9446,
+    "uuid": "1b735362-84e3-423f-81d0-359059da4970",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\player_material_2.mtl.meta": {
+    "time": 1725135046809.2634
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\player_material_2.mtl": {
+    "time": 1725185336426.7805,
+    "uuid": "04fbb82c-0582-41fc-9436-a6d169dd9c71",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\prefabs\\Frame.prefab.meta": {
+    "time": 1725185556034.4426
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\prefabs\\Frame.prefab": {
+    "time": 1725217058478.641,
+    "uuid": "72994120-8602-466e-ab77-fb4468fac6eb",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\SceneFrame.ts.meta": {
+    "time": 1725185586241.0295
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\SceneFrame.ts": {
+    "time": 1725289340776.423,
+    "uuid": "495f545d-0175-42ed-b995-ee95fe8c5c65",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\ColliderHandler.ts.meta": {
+    "time": 1725195211690.1526
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\ColliderHandler.ts": {
+    "time": 1725291389229.9717,
+    "uuid": "67fb6471-cc66-48bc-ba79-b63a3b16e34e",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\frame_material.mtl.meta": {
+    "time": 1725195667027.1777
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\materials\\frame_material.mtl": {
+    "time": 1725195777929.72,
+    "uuid": "96f91375-fc86-47e7-9787-ffef9ea82e49",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\load.png.meta": {
+    "time": 1725262392676.2966
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\load.png": {
+    "time": 1725263347906.8152,
+    "uuid": "71b29970-414a-4e4e-95ad-8bd2aabd8a73",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\UIManager.ts.meta": {
+    "time": 1725261069994.6204
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\UIManager.ts": {
+    "time": 1725812778169.795,
+    "uuid": "879b9478-d13a-457b-8a95-32ab73fedba0",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\space.jpg.meta": {
+    "time": 1725263272642.401
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\sprites\\space.jpg": {
+    "time": 1725263266343.1562,
+    "uuid": "c7e499d4-c4b6-4bec-9a56-3c7e9339e6ab",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\ScoreHandler.ts.meta": {
+    "time": 1725269259290.8425
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scripts\\ScoreHandler.ts": {
+    "time": 1725821549740.5227,
+    "uuid": "99e2ebe1-0992-47e7-95a9-09f45d97dea7",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\fonts": {
+    "time": 1725028988856.1663,
+    "uuid": "51ea508b-8e3b-47de-80e3-cc33a4914008",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials": {
+    "time": 1726491573255.4514,
+    "uuid": "025b6574-c407-4ca3-9f24-ecac6589f6b6",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models": {
+    "time": 1726493671796.679,
+    "uuid": "f55286f8-95b3-4702-b00b-be640da47243",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\prefabs": {
+    "time": 1726491573354.3645,
+    "uuid": "e085360b-ec37-47d1-a20e-a703483e1695",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts": {
+    "time": 1726491573552.5964,
+    "uuid": "d3c71145-621f-4e40-a6f7-c7f7da6d3a3a",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites": {
+    "time": 1726491573735.4407,
+    "uuid": "fed0b684-97be-47e8-b996-6c08a1a4a090",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\Camera.ts": {
+    "time": 1725449595999.632,
+    "uuid": "5358396c-df97-46ab-b729-6b2d947209b6",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\ColliderHandler.ts": {
+    "time": 1725291389229.9717,
+    "uuid": "67fb6471-cc66-48bc-ba79-b63a3b16e34e",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\EnemyManager.ts": {
+    "time": 1725291378338.325,
+    "uuid": "b73b3009-fa7c-4ca0-9aac-a0d168f4b16a",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\GameManager.ts": {
+    "time": 1725291365686.109,
+    "uuid": "33ad0d58-aeb9-4c48-bc1f-82ad83464985",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\JoystickController.ts": {
+    "time": 1725291404405.8872,
+    "uuid": "b07d6a8e-3095-41d6-8ad1-05d63c803054",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\Player.ts": {
+    "time": 1725291368970.953,
+    "uuid": "02516e3d-44ba-46fe-9173-25efa028b1d5",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\SceneFrame.ts": {
+    "time": 1725289340776.423,
+    "uuid": "495f545d-0175-42ed-b995-ee95fe8c5c65",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\ScoreHandler.ts": {
+    "time": 1725821549740.5227,
+    "uuid": "99e2ebe1-0992-47e7-95a9-09f45d97dea7",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\UIManager.ts": {
+    "time": 1725812778169.795,
+    "uuid": "879b9478-d13a-457b-8a95-32ab73fedba0",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\fonts.meta": {
+    "time": 1725028988864.6794
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials.meta": {
+    "time": 1725113735688.5999
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models.meta": {
+    "time": 1725028993357.6252
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\prefabs.meta": {
+    "time": 1725029009083.1714
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts.meta": {
+    "time": 1725028972964.4424
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites.meta": {
+    "time": 1725030504429.544
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\Camera.ts.meta": {
+    "time": 1725132585698.2903
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\ColliderHandler.ts.meta": {
+    "time": 1725195211690.1526
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\EnemyManager.ts.meta": {
+    "time": 1725112394453.1213
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\GameManager.ts.meta": {
+    "time": 1725029021374.8916
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\JoystickController.ts.meta": {
+    "time": 1725029891976.7336
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\Player.ts.meta": {
+    "time": 1725101240096.9272
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\SceneFrame.ts.meta": {
+    "time": 1725185586241.0295
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\ScoreHandler.ts.meta": {
+    "time": 1725269259290.8425
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scripts\\UIManager.ts.meta": {
+    "time": 1725261069994.6204
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scene.scene": {
+    "time": 1726495012523.993,
+    "uuid": "ff2f1fbb-58db-4216-a575-de39ff9009a9",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\enemy_material.mtl": {
+    "time": 1726494020291.8274,
+    "uuid": "024bf8ee-e256-4841-b14e-c3ed63382b91",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\frame_material.mtl": {
+    "time": 1725195777929.72,
+    "uuid": "96f91375-fc86-47e7-9787-ffef9ea82e49",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\player_material_1.mtl": {
+    "time": 1725135155588.9446,
+    "uuid": "1b735362-84e3-423f-81d0-359059da4970",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\player_material_2.mtl": {
+    "time": 1725185336426.7805,
+    "uuid": "04fbb82c-0582-41fc-9436-a6d169dd9c71",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\prefabs\\Enemy.prefab": {
+    "time": 1726494024653.7341,
+    "uuid": "f732030b-5c4a-4ce3-8868-46d569a9653a",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\prefabs\\Frame.prefab": {
+    "time": 1725217058478.641,
+    "uuid": "72994120-8602-466e-ab77-fb4468fac6eb",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\circle.png": {
+    "time": 1725030588970.0012,
+    "uuid": "4155494b-79a5-412d-9eae-f10800530b06",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\cubemap.cubemap": {
+    "time": 1725107056432.102,
+    "uuid": "5dd39c7d-e4e4-4eda-977f-790029ecc445",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\joystick.png": {
+    "time": 1725107897982.8271,
+    "uuid": "8d194fcb-e5a3-4218-8fa9-3acb4cd49451",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\load.png": {
+    "time": 1725263347906.8152,
+    "uuid": "71b29970-414a-4e4e-95ad-8bd2aabd8a73",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\space.jpg": {
+    "time": 1725263266343.1562,
+    "uuid": "c7e499d4-c4b6-4bec-9a56-3c7e9339e6ab",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\space_cubemap.png": {
+    "time": 1725107161210.2854,
+    "uuid": "a2984473-ea1d-4f3b-9839-fbfbbe1ac9fd",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\frame_material.mtl.meta": {
+    "time": 1725195667027.1777
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\player_material_2.mtl.meta": {
+    "time": 1725135046809.2634
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\enemy_material.mtl.meta": {
+    "time": 1725124582394.9824
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\player_material_1.mtl.meta": {
+    "time": 1725135045434.956
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\scene.scene.meta": {
+    "time": 1725029228379.9458
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\cubemap.cubemap.meta": {
+    "time": 1725107056444.2476
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\prefabs\\Enemy.prefab.meta": {
+    "time": 1725112305931.9998
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\prefabs\\Frame.prefab.meta": {
+    "time": 1725185556034.4426
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\circle.png.meta": {
+    "time": 1725030601368.7932
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\joystick.png.meta": {
+    "time": 1725107945479.6338
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\load.png.meta": {
+    "time": 1725262392676.2966
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\space.jpg.meta": {
+    "time": 1725263272642.401
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\sprites\\space_cubemap.png.meta": {
+    "time": 1725107488598.9978
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\scene.bin.meta": {
+    "time": 1726493588405.8118
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\scene.bin": {
+    "time": 1726489242552.618,
+    "uuid": "0c0b2a61-f28a-49f4-9fe1-cc33f8e25c96",
+    "missing": false
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\scene.gltf.meta": {
+    "time": 1726493589127.1096
+  },
+  "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\scene.gltf": {
+    "time": 1726489242587.351,
+    "uuid": "3d7449a4-89fa-4974-9881-aeb667f3219d",
+    "missing": false
+  }
+}

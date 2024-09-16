@@ -1,0 +1,19 @@
+{
+  "__version__": "3.0.7",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "fac215",
+        "services": []
+      },
+      "android": {
+        "configID": "fac215",
+        "services": []
+      }
+    }
+  },
+  "builder-options": {
+    "configID": "fac215",
+    "services": []
+  }
+}

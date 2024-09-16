@@ -1,0 +1,11 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "ff2f1fbb-58db-4216-a575-de39ff9009a9": "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame\\SpaceGame3D\\assets\\scene.scene"
+    },
+    "deviceMd5": "b28c52254559730fa62b2826e26fed3b"
+}

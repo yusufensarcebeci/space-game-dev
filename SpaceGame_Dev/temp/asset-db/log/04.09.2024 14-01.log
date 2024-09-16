@@ -1,0 +1,120 @@
+04.09.2024 14:01:42-debug: asset-db:worker-init (3889ms)
+04.09.2024 14:01:46-debug: Preimport db internal success
+04.09.2024 14:01:46-debug: Preimport db assets success
+04.09.2024 14:01:47-debug: asset-db:worker-effect-data-processing (1430ms)
+04.09.2024 14:01:51-debug: Set detail map pack:///resolution-detail-map.json: {}
+04.09.2024 14:01:51-debug: Start up the 'internal' database...
+04.09.2024 14:01:52-debug: asset-db:worker-init-script (73ms)
+04.09.2024 14:01:52-debug: start asset-db with asset: 419
+04.09.2024 14:01:52-debug: Start up the 'assets' database...
+04.09.2024 14:01:52-debug: start asset-db with asset: 29
+04.09.2024 14:02:01-debug: asset-db:worker-startup-database[internal] (7820ms)
+04.09.2024 14:02:01-debug: asset-db:worker-startup-database[assets] (6374ms)
+04.09.2024 14:02:01-debug: Asset DB is ready!
+04.09.2024 14:02:01-debug: init worker message success
+04.09.2024 14:02:04-debug: programming:execute-script (1ms)
+04.09.2024 14:02:04-debug: builder:worker-init (2212ms)
+04.09.2024 14:02:09-debug: programming:execute-script (3ms)
+04.09.2024 14:02:52-debug: refresh db internal success
+04.09.2024 14:02:52-debug: asset-db:worker-effect-data-processing (214ms)
+04.09.2024 14:02:52-debug: refresh db assets success
+04.09.2024 14:02:52-debug: asset-db:refresh-all-database (330ms)
+04.09.2024 14:03:07-debug: refresh db internal success
+04.09.2024 14:03:07-debug: asset-db:worker-effect-data-processing (519ms)
+04.09.2024 14:03:07-debug: refresh db assets success
+04.09.2024 14:03:07-debug: asset-db:refresh-all-database (749ms)
+04.09.2024 14:03:11-debug: start remove asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts\todo...
+04.09.2024 14:03:11-debug: refresh db internal success
+04.09.2024 14:03:11-debug: %cDestroy%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts\todobackground: #ffb8b8; color: #000;color: #000;
+04.09.2024 14:03:12-debug: start refresh asset from D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts\todo...
+04.09.2024 14:03:12-debug: refresh asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts success
+04.09.2024 14:03:12-debug: remove asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts\todo success
+04.09.2024 14:03:12-debug: asset-db:worker-effect-data-processing (741ms)
+04.09.2024 14:03:12-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scriptsbackground: #aaff85; color: #000;color: #000;
+04.09.2024 14:03:12-debug: refresh db assets success
+04.09.2024 14:03:12-debug: asset-db:refresh-all-database (1165ms)
+04.09.2024 14:03:25-debug: refresh db internal success
+04.09.2024 14:03:26-debug: asset-db:worker-effect-data-processing (273ms)
+04.09.2024 14:03:26-debug: refresh db assets success
+04.09.2024 14:03:26-debug: asset-db:refresh-all-database (399ms)
+04.09.2024 14:16:43-debug: refresh db internal success
+04.09.2024 14:16:43-debug: asset-db:worker-effect-data-processing (249ms)
+04.09.2024 14:16:43-debug: refresh db assets success
+04.09.2024 14:16:43-debug: asset-db:refresh-all-database (371ms)
+04.09.2024 14:16:43-debug: start refresh asset from D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scene...
+04.09.2024 14:16:43-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scenebackground: #aaff85; color: #000;color: #000;
+04.09.2024 14:16:43-debug: refresh asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets success
+04.09.2024 14:17:07-debug: refresh db internal success
+04.09.2024 14:17:07-debug: asset-db:worker-effect-data-processing (259ms)
+04.09.2024 14:17:07-debug: refresh db assets success
+04.09.2024 14:17:07-debug: asset-db:refresh-all-database (399ms)
+04.09.2024 14:17:38-debug: refresh db internal success
+04.09.2024 14:17:38-debug: asset-db:worker-effect-data-processing (247ms)
+04.09.2024 14:17:38-debug: refresh db assets success
+04.09.2024 14:17:38-debug: asset-db:refresh-all-database (358ms)
+04.09.2024 14:21:29-debug: refresh db internal success
+04.09.2024 14:21:30-debug: asset-db:worker-effect-data-processing (242ms)
+04.09.2024 14:21:30-debug: refresh db assets success
+04.09.2024 14:21:30-debug: asset-db:refresh-all-database (360ms)
+04.09.2024 14:21:49-debug: refresh db internal success
+04.09.2024 14:21:49-debug: asset-db:worker-effect-data-processing (280ms)
+04.09.2024 14:21:49-debug: refresh db assets success
+04.09.2024 14:21:49-debug: asset-db:refresh-all-database (390ms)
+04.09.2024 14:22:00-debug: refresh db internal success
+04.09.2024 14:22:00-debug: asset-db:worker-effect-data-processing (190ms)
+04.09.2024 14:22:00-debug: refresh db assets success
+04.09.2024 14:22:00-debug: asset-db:refresh-all-database (300ms)
+04.09.2024 14:22:36-debug: refresh db internal success
+04.09.2024 14:22:37-debug: asset-db:worker-effect-data-processing (236ms)
+04.09.2024 14:22:37-debug: refresh db assets success
+04.09.2024 14:22:37-debug: asset-db:refresh-all-database (344ms)
+04.09.2024 14:22:52-debug: refresh db internal success
+04.09.2024 14:22:52-debug: asset-db:worker-effect-data-processing (255ms)
+04.09.2024 14:22:52-debug: refresh db assets success
+04.09.2024 14:22:52-debug: asset-db:refresh-all-database (378ms)
+04.09.2024 14:24:07-debug: refresh db internal success
+04.09.2024 14:24:07-debug: asset-db:worker-effect-data-processing (238ms)
+04.09.2024 14:24:07-debug: refresh db assets success
+04.09.2024 14:24:07-debug: asset-db:refresh-all-database (341ms)
+04.09.2024 14:24:41-debug: refresh db internal success
+04.09.2024 14:24:41-debug: asset-db:worker-effect-data-processing (236ms)
+04.09.2024 14:24:41-debug: refresh db assets success
+04.09.2024 14:24:41-debug: asset-db:refresh-all-database (342ms)
+04.09.2024 14:29:23-debug: refresh db internal success
+04.09.2024 14:29:24-debug: asset-db:worker-effect-data-processing (236ms)
+04.09.2024 14:29:24-debug: refresh db assets success
+04.09.2024 14:29:24-debug: asset-db:refresh-all-database (339ms)
+04.09.2024 14:29:34-debug: refresh db internal success
+04.09.2024 14:29:34-debug: asset-db:worker-effect-data-processing (277ms)
+04.09.2024 14:29:34-debug: refresh db assets success
+04.09.2024 14:29:34-debug: asset-db:refresh-all-database (383ms)
+04.09.2024 14:29:39-debug: refresh db internal success
+04.09.2024 14:29:39-debug: asset-db:worker-effect-data-processing (224ms)
+04.09.2024 14:29:39-debug: refresh db assets success
+04.09.2024 14:29:39-debug: asset-db:refresh-all-database (332ms)
+04.09.2024 14:29:40-debug: refresh db internal success
+04.09.2024 14:29:40-debug: asset-db:worker-effect-data-processing (178ms)
+04.09.2024 14:29:40-debug: refresh db assets success
+04.09.2024 14:29:40-debug: asset-db:refresh-all-database (281ms)
+04.09.2024 14:29:41-debug: refresh db internal success
+04.09.2024 14:29:41-debug: asset-db:worker-effect-data-processing (216ms)
+04.09.2024 14:29:41-debug: refresh db assets success
+04.09.2024 14:29:41-debug: asset-db:refresh-all-database (316ms)
+04.09.2024 14:33:01-debug: refresh db internal success
+04.09.2024 14:33:02-debug: start refresh asset from D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scene...
+04.09.2024 14:33:02-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scenebackground: #aaff85; color: #000;color: #000;
+04.09.2024 14:33:02-debug: refresh asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets success
+04.09.2024 14:33:02-debug: asset-db:worker-effect-data-processing (284ms)
+04.09.2024 14:33:02-debug: refresh db assets success
+04.09.2024 14:33:02-debug: asset-db:refresh-all-database (563ms)
+04.09.2024 14:33:04-debug: start refresh asset from D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scene...
+04.09.2024 14:33:04-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scenebackground: #aaff85; color: #000;color: #000;
+04.09.2024 14:33:04-debug: refresh asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets success
+04.09.2024 14:33:06-debug: start refresh asset from D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scene...
+04.09.2024 14:33:06-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scene.scenebackground: #aaff85; color: #000;color: #000;
+04.09.2024 14:33:06-debug: refresh asset D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets success
+04.09.2024 15:34:38-debug: refresh db internal success
+04.09.2024 15:34:39-debug: asset-db:worker-effect-data-processing (271ms)
+04.09.2024 15:34:39-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts\Camera.tsbackground: #aaff85; color: #000;color: #000;
+04.09.2024 15:34:39-debug: refresh db assets success
+04.09.2024 15:34:39-debug: asset-db:refresh-all-database (487ms)

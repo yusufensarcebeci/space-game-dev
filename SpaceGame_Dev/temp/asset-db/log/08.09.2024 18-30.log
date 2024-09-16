@@ -1,0 +1,61 @@
+08.09.2024 18:30:26-debug: asset-db:worker-init (1679ms)
+08.09.2024 18:30:26-debug: Preimport db internal success
+08.09.2024 18:30:26-debug: Preimport db assets success
+08.09.2024 18:30:27-debug: asset-db:worker-effect-data-processing (1279ms)
+08.09.2024 18:30:32-debug: Set detail map pack:///resolution-detail-map.json: {}
+08.09.2024 18:30:32-debug: Start up the 'internal' database...
+08.09.2024 18:30:32-debug: asset-db:worker-init-script (97ms)
+08.09.2024 18:30:32-debug: start asset-db with asset: 419
+08.09.2024 18:30:32-debug: Start up the 'assets' database...
+08.09.2024 18:30:32-debug: asset-db:worker-startup-database[internal] (6507ms)
+08.09.2024 18:30:32-debug: start asset-db with asset: 28
+08.09.2024 18:30:32-debug: Asset DB is ready!
+08.09.2024 18:30:32-debug: asset-db:worker-startup-database[assets] (6293ms)
+08.09.2024 18:30:32-debug: init worker message success
+08.09.2024 18:30:35-debug: builder:worker-init (2247ms)
+08.09.2024 18:30:37-debug: programming:execute-script (3ms)
+08.09.2024 18:31:11-debug: refresh db internal success
+08.09.2024 18:31:11-debug: asset-db:worker-effect-data-processing (341ms)
+08.09.2024 18:31:11-debug: refresh db assets success
+08.09.2024 18:31:11-debug: asset-db:refresh-all-database (483ms)
+08.09.2024 18:31:12-debug: refresh db internal success
+08.09.2024 18:31:12-debug: asset-db:worker-effect-data-processing (245ms)
+08.09.2024 18:31:12-debug: refresh db assets success
+08.09.2024 18:31:12-debug: asset-db:refresh-all-database (372ms)
+08.09.2024 18:31:24-debug: refresh db internal success
+08.09.2024 18:31:25-debug: asset-db:worker-effect-data-processing (241ms)
+08.09.2024 18:31:25-debug: refresh db assets success
+08.09.2024 18:31:25-debug: asset-db:refresh-all-database (391ms)
+08.09.2024 18:33:57-debug: refresh db internal success
+08.09.2024 18:33:57-debug: asset-db:worker-effect-data-processing (312ms)
+08.09.2024 18:33:57-debug: refresh db assets success
+08.09.2024 18:33:57-debug: asset-db:refresh-all-database (453ms)
+08.09.2024 18:37:00-debug: refresh db internal success
+08.09.2024 18:37:00-debug: asset-db:worker-effect-data-processing (260ms)
+08.09.2024 18:37:00-debug: refresh db assets success
+08.09.2024 18:37:00-debug: asset-db:refresh-all-database (404ms)
+08.09.2024 18:47:11-debug: refresh db internal success
+08.09.2024 18:47:12-debug: asset-db:worker-effect-data-processing (253ms)
+08.09.2024 18:47:12-debug: refresh db assets success
+08.09.2024 18:47:12-debug: asset-db:refresh-all-database (366ms)
+08.09.2024 18:47:15-debug: refresh db internal success
+08.09.2024 18:47:15-debug: asset-db:worker-effect-data-processing (186ms)
+08.09.2024 18:47:15-debug: refresh db assets success
+08.09.2024 18:47:15-debug: asset-db:refresh-all-database (296ms)
+08.09.2024 18:53:50-debug: refresh db internal success
+08.09.2024 18:53:51-debug: asset-db:worker-effect-data-processing (244ms)
+08.09.2024 18:53:51-debug: refresh db assets success
+08.09.2024 18:53:51-debug: asset-db:refresh-all-database (362ms)
+08.09.2024 18:54:56-debug: refresh db internal success
+08.09.2024 18:54:57-debug: asset-db:worker-effect-data-processing (269ms)
+08.09.2024 18:54:57-debug: refresh db assets success
+08.09.2024 18:54:57-debug: asset-db:refresh-all-database (386ms)
+08.09.2024 19:26:35-debug: refresh db internal success
+08.09.2024 19:26:35-debug: asset-db:worker-effect-data-processing (269ms)
+08.09.2024 19:26:35-debug: %cImport%c: D:\CocosProjects\bionluk\muratcanko\SpaceGame\SpaceGame3D\assets\scripts\UIManager.tsbackground: #aaff85; color: #000;color: #000;
+08.09.2024 19:26:35-debug: refresh db assets success
+08.09.2024 19:26:35-debug: asset-db:refresh-all-database (384ms)
+08.09.2024 20:31:07-debug: refresh db internal success
+08.09.2024 20:31:08-debug: asset-db:worker-effect-data-processing (339ms)
+08.09.2024 20:31:08-debug: refresh db assets success
+08.09.2024 20:31:08-debug: asset-db:refresh-all-database (466ms)
