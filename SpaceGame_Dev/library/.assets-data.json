@@ -20,7 +20,7 @@
     "value": {}
   },
   "33ad0d58-aeb9-4c48-bc1f-82ad83464985": {
-    "url": "db://assets/scripts/GameManager.ts",
+    "url": "db://assets/scripts/core/GameManager.ts",
     "value": {}
   },
   "ff2f1fbb-58db-4216-a575-de39ff9009a9": {
@@ -61,20 +61,16 @@
         "f732030b-5c4a-4ce3-8868-46d569a9653a",
         "72994120-8602-466e-ab77-fb4468fac6eb",
         "72994120-8602-466e-ab77-fb4468fac6eb",
-        "04fbb82c-0582-41fc-9436-a6d169dd9c71",
-        "1263d74c-8167-4928-91a6-4e2672411f47@38fd2",
         "ba21476f-2866-4f81-9c4d-6e359316e448",
-        "1b735362-84e3-423f-81d0-359059da4970",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@d1932",
         "ff2f1fbb-58db-4216-a575-de39ff9009a9",
-        "a2984473-ea1d-4f3b-9839-fbfbbe1ac9fd@b47c0",
-        "a2984473-ea1d-4f3b-9839-fbfbbe1ac9fd@b47c0",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0"
+        "5ebb9845-4841-4db1-bf06-f403fd1ac208",
+        "5ebb9845-4841-4db1-bf06-f403fd1ac208"
       ]
     }
   },
   "b07d6a8e-3095-41d6-8ad1-05d63c803054": {
-    "url": "db://assets/scripts/JoystickController.ts",
+    "url": "db://assets/scripts/entities/JoystickController.ts",
     "value": {}
   },
   "5af17ff2-a1ff-4724-b989-6c0fd80b77c8": {
@@ -142,7 +138,7 @@
     "value": {}
   },
   "02516e3d-44ba-46fe-9173-25efa028b1d5": {
-    "url": "db://assets/scripts/Player.ts",
+    "url": "db://assets/scripts/core/Player.ts",
     "value": {}
   },
   "628f7b78-6cfb-4c30-91df-091191717cb8": {
@@ -151,22 +147,11 @@
   },
   "5dd39c7d-e4e4-4eda-977f-790029ecc445": {
     "url": "db://assets/sprites/cubemap.cubemap",
-    "value": {
-      "depends": [
-        "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665",
-        "03721795-84b1-4dcd-8eb3-c8e6b88ee535",
-        "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d",
-        "80aabd92-9942-4765-b685-8577a1c88b4e",
-        "6c895e98-967e-4a6d-8c08-bf6b035fa2c1",
-        "e049bea9-db6b-463b-8502-61bf426357a1"
-      ]
-    }
+    "value": {}
   },
   "a2984473-ea1d-4f3b-9839-fbfbbe1ac9fd": {
     "url": "db://assets/sprites/space_cubemap.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "a2984473-ea1d-4f3b-9839-fbfbbe1ac9fd@6c48a": {
     "url": "db://assets/sprites/skybox-texture-mapping-cube-mapping-night-sky-space-df91a8285844c926916095c0619f54c6.png@6c48a",
@@ -248,19 +233,19 @@
     }
   },
   "f732030b-5c4a-4ce3-8868-46d569a9653a": {
-    "url": "db://assets/prefabs/Enemy.prefab",
+    "url": "db://assets/prefabs/obstacle.prefab",
     "value": {
       "depends": [
         "ba21476f-2866-4f81-9c4d-6e359316e448",
-        "024bf8ee-e256-4841-b14e-c3ed63382b91",
-        "3d7449a4-89fa-4974-9881-aeb667f3219d@db32a",
-        "024bf8ee-e256-4841-b14e-c3ed63382b91",
-        "3d7449a4-89fa-4974-9881-aeb667f3219d@4f4f4"
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@db32a",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@4f4f4"
       ]
     }
   },
   "b73b3009-fa7c-4ca0-9aac-a0d168f4b16a": {
-    "url": "db://assets/scripts/EnemyManager.ts",
+    "url": "db://assets/scripts/core/ObstacleManager.ts",
     "value": {}
   },
   "025b6574-c407-4ca3-9f24-ecac6589f6b6": {
@@ -288,7 +273,7 @@
     "value": {}
   },
   "5358396c-df97-46ab-b729-6b2d947209b6": {
-    "url": "db://assets/scripts/Camera.ts",
+    "url": "db://assets/scripts/core/CameraController.ts",
     "value": {}
   },
   "1b735362-84e3-423f-81d0-359059da4970": {
@@ -308,34 +293,19 @@
     }
   },
   "72994120-8602-466e-ab77-fb4468fac6eb": {
-    "url": "db://assets/prefabs/Frame.prefab",
+    "url": "db://assets/prefabs/segment.prefab",
     "value": {
       "depends": [
-        "96f91375-fc86-47e7-9787-ffef9ea82e49",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "96f91375-fc86-47e7-9787-ffef9ea82e49",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "96f91375-fc86-47e7-9787-ffef9ea82e49",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "96f91375-fc86-47e7-9787-ffef9ea82e49",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "620b6bf3-0369-4560-837f-2a2c00b73c26",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "620b6bf3-0369-4560-837f-2a2c00b73c26",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "620b6bf3-0369-4560-837f-2a2c00b73c26",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a",
-        "620b6bf3-0369-4560-837f-2a2c00b73c26",
-        "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@d1932"
       ]
     }
   },
   "495f545d-0175-42ed-b995-ee95fe8c5c65": {
-    "url": "db://assets/scripts/SceneFrame.ts",
+    "url": "db://assets/scripts/entities/PathSegment.ts",
     "value": {}
   },
   "67fb6471-cc66-48bc-ba79-b63a3b16e34e": {
-    "url": "db://assets/scripts/ColliderHandler.ts",
+    "url": "db://assets/scripts/entities/ColliderHandler.ts",
     "value": {}
   },
   "22ae7292-6a70-4206-9838-972fd81e6de8": {
@@ -343,7 +313,7 @@
     "value": {}
   },
   "96f91375-fc86-47e7-9787-ffef9ea82e49": {
-    "url": "db://assets/materials/frame_material.mtl",
+    "url": "db://assets/materials/segment_material.mtl",
     "value": {
       "depends": [
         "c8f66d17-351a-48da-a12c-0212d28575c4"
@@ -373,7 +343,7 @@
     }
   },
   "879b9478-d13a-457b-8a95-32ab73fedba0": {
-    "url": "db://assets/scripts/UIManager.ts",
+    "url": "db://assets/scripts/ui/UIManager.ts",
     "value": {}
   },
   "c7e499d4-c4b6-4bec-9a56-3c7e9339e6ab": {
@@ -399,7 +369,7 @@
     }
   },
   "99e2ebe1-0992-47e7-95a9-09f45d97dea7": {
-    "url": "db://assets/scripts/ScoreHandler.ts",
+    "url": "db://assets/scripts/ui/ScoreHandler.ts",
     "value": {}
   },
   "c58a56f4-9fb0-4764-8dc7-cc356a5f294c": {
@@ -464,9 +434,7 @@
   },
   "0c0b2a61-f28a-49f4-9fe1-cc33f8e25c96": {
     "url": "db://assets/models/scene.bin",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "3d7449a4-89fa-4974-9881-aeb667f3219d": {
     "url": "db://assets/models/scene.gltf",
@@ -521,5 +489,1698 @@
   "b9636127-bb1e-4751-917f-42c56a9c61b6": {
     "url": "db://assets/models/license.txt",
     "value": {}
+  },
+  "41a5ea27-d7fd-48f7-9389-d2771957a495": {
+    "url": "db://assets/scripts/EnemyManager.ts",
+    "value": {}
+  },
+  "2ba57c4b-3624-472d-9da4-58b920d41ddd": {
+    "url": "db://assets/scripts/EnemyManager.ts",
+    "value": {}
+  },
+  "e2f37db3-604a-4d3c-bfc6-0b512f83f11d": {
+    "url": "db://assets/scripts/core",
+    "value": {}
+  },
+  "7f309d3b-5547-4032-9ee8-ec87b3ef590d": {
+    "url": "db://assets/scripts/ui",
+    "value": {}
+  },
+  "984f63ae-4add-4344-b308-5d9b5806a8e0": {
+    "url": "db://assets/scripts/entities",
+    "value": {}
+  },
+  "1200620e-8e1d-4f92-83fb-81993df27ffb": {
+    "url": "db://assets/scripts/entities/ObstacleMovement.ts",
+    "value": {}
+  },
+  "b90c81f3-5300-43af-9ea1-3aa5dd51ab70": {
+    "url": "db://assets/scripts/managers",
+    "value": {}
+  },
+  "7c1bd061-2c0a-4703-9cee-7a679a2f4a9b": {
+    "url": "db://assets/scripts/ui",
+    "value": {}
+  },
+  "ffd6a0b3-983a-471c-b602-1ea100bb80f7": {
+    "url": "db://assets/sprites/space_cubemap",
+    "value": {}
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664": {
+    "url": "db://assets/sprites/space_cubemap/ny.png",
+    "value": {}
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@6c48a",
+    "value": {
+      "depends": [
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664"
+      ]
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057": {
+    "url": "db://assets/sprites/space_cubemap/px.png",
+    "value": {}
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/px.png@6c48a",
+    "value": {
+      "depends": [
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057"
+      ]
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915": {
+    "url": "db://assets/sprites/space_cubemap/nz.png",
+    "value": {}
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c": {
+    "url": "db://assets/sprites/space_cubemap/nx.png",
+    "value": {}
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90": {
+    "url": "db://assets/sprites/space_cubemap/pz.png",
+    "value": {}
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168": {
+    "url": "db://assets/sprites/space_cubemap/py.png",
+    "value": {}
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@6c48a",
+    "value": {
+      "depends": [
+        "8a6f6152-687c-4745-8b09-8ef901078915"
+      ]
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@6c48a",
+    "value": {
+      "depends": [
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c"
+      ]
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@6c48a",
+    "value": {
+      "depends": [
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90"
+      ]
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/py.png@6c48a",
+    "value": {
+      "depends": [
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168"
+      ]
+    }
+  },
+  "7751b00f-d64c-42d3-ada8-17059e34b60a": {
+    "url": "db://assets/sprites/cubemap-001.cubemap",
+    "value": {}
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0",
+    "value": {
+      "depends": [
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@e9a6d",
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@40c10",
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@8fd34",
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@74afd",
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@bb97f",
+        "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@7d38f"
+      ]
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0",
+    "value": {
+      "depends": [
+        "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@e9a6d",
+        "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@40c10",
+        "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@8fd34",
+        "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@74afd",
+        "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@bb97f",
+        "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@7d38f"
+      ]
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0",
+    "value": {
+      "depends": [
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@e9a6d",
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@40c10",
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@8fd34",
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@74afd",
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@bb97f",
+        "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@7d38f"
+      ]
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0",
+    "value": {
+      "depends": [
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@e9a6d",
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@40c10",
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@8fd34",
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@74afd",
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@bb97f",
+        "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@7d38f"
+      ]
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0",
+    "value": {
+      "depends": [
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@e9a6d",
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@40c10",
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@8fd34",
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@74afd",
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@bb97f",
+        "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@7d38f"
+      ]
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "bf1bb862-00d8-4beb-ac2c-b3fe698c4057@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/px.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "cdf2b397-8630-4a2d-81ce-0ba1a50ab168@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/py.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "e931292f-12e8-4b87-b34d-efcc1e03c91c@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/nx.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "8a6f6152-687c-4745-8b09-8ef901078915@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/nz.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "a96b5e68-a0b4-42af-8c53-4d4dab61b664@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/ny.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0",
+    "value": {
+      "depends": [
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@e9a6d",
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@40c10",
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@8fd34",
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@74afd",
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@bb97f",
+        "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@7d38f"
+      ]
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "9c713d34-49d1-4bc5-9973-bc173f3f3f90@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/pz.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "90beb072-8cb4-4869-a514-ddcbe37585a3": {
+    "url": "db://assets/sprites/space_cubemap/cubemap.cubemap",
+    "value": {}
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png",
+    "value": {}
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@6c48a",
+    "value": {
+      "depends": [
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea"
+      ]
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png",
+    "value": {}
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@6c48a",
+    "value": {
+      "depends": [
+        "490cf22f-08af-4cac-8179-77e00bd87254"
+      ]
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg",
+    "value": {}
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b": {
+    "url": "db://assets/sprites/space_cubemap/_px.png",
+    "value": {}
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg",
+    "value": {}
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png",
+    "value": {}
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22": {
+    "url": "db://assets/sprites/space_cubemap/_py.png",
+    "value": {}
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@6c48a",
+    "value": {
+      "depends": [
+        "7b91ba97-9069-4888-9557-1575655c2b3b"
+      ]
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png",
+    "value": {}
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@6c48a",
+    "value": {
+      "depends": [
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c"
+      ]
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@6c48a",
+    "value": {
+      "depends": [
+        "0277300e-660e-428b-b04c-8631e041fb22"
+      ]
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@6c48a",
+    "value": {
+      "depends": [
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca"
+      ]
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@6c48a",
+    "value": {
+      "depends": [
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe"
+      ]
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@6c48a": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@6c48a",
+    "value": {
+      "depends": [
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4"
+      ]
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@3c318",
+    "value": {
+      "depends": [
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4"
+      ]
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@3c318",
+    "value": {
+      "depends": [
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c"
+      ]
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@3c318",
+    "value": {
+      "depends": [
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea"
+      ]
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@3c318",
+    "value": {
+      "depends": [
+        "490cf22f-08af-4cac-8179-77e00bd87254"
+      ]
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@3c318",
+    "value": {
+      "depends": [
+        "7b91ba97-9069-4888-9557-1575655c2b3b"
+      ]
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@3c318",
+    "value": {
+      "depends": [
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe"
+      ]
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@3c318",
+    "value": {
+      "depends": [
+        "0277300e-660e-428b-b04c-8631e041fb22"
+      ]
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@3c318": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@3c318",
+    "value": {
+      "depends": [
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca"
+      ]
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0",
+    "value": {
+      "depends": [
+        "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@e9a6d",
+        "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@40c10",
+        "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@8fd34",
+        "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@74afd",
+        "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@bb97f",
+        "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@7d38f"
+      ]
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0",
+    "value": {
+      "depends": [
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@e9a6d",
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@40c10",
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@8fd34",
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@74afd",
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@bb97f",
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@7d38f"
+      ]
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0",
+    "value": {
+      "depends": [
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@e9a6d",
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@40c10",
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@8fd34",
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@74afd",
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@bb97f",
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@7d38f"
+      ]
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0",
+    "value": {
+      "depends": [
+        "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@e9a6d",
+        "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@40c10",
+        "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@8fd34",
+        "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@74afd",
+        "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@bb97f",
+        "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@7d38f"
+      ]
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0",
+    "value": {
+      "depends": [
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@e9a6d",
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@40c10",
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@8fd34",
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@74afd",
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@bb97f",
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@7d38f"
+      ]
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0",
+    "value": {
+      "depends": [
+        "0277300e-660e-428b-b04c-8631e041fb22@b47c0@e9a6d",
+        "0277300e-660e-428b-b04c-8631e041fb22@b47c0@40c10",
+        "0277300e-660e-428b-b04c-8631e041fb22@b47c0@8fd34",
+        "0277300e-660e-428b-b04c-8631e041fb22@b47c0@74afd",
+        "0277300e-660e-428b-b04c-8631e041fb22@b47c0@bb97f",
+        "0277300e-660e-428b-b04c-8631e041fb22@b47c0@7d38f"
+      ]
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0",
+    "value": {
+      "depends": [
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@e9a6d",
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@40c10",
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@8fd34",
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@74afd",
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@bb97f",
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@7d38f"
+      ]
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0",
+    "value": {
+      "depends": [
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@e9a6d",
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@40c10",
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@8fd34",
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@74afd",
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@bb97f",
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@7d38f"
+      ]
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@74afd": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@8fd34": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@bb97f": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@7d38f": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@b47c0@40c10": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_nx.png@f9941",
+    "value": {
+      "depends": [
+        "cf1bbd3a-bc1a-45d3-b24f-ae66ddde62ea@6c48a"
+      ]
+    }
+  },
+  "e6c8cc86-80e7-426f-8759-ea0e2014b91c@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_nz.png@f9941",
+    "value": {
+      "depends": [
+        "e6c8cc86-80e7-426f-8759-ea0e2014b91c@6c48a"
+      ]
+    }
+  },
+  "d9454620-afac-43cc-937f-e5a48bb2a1e4@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_nz.jpg@f9941",
+    "value": {
+      "depends": [
+        "d9454620-afac-43cc-937f-e5a48bb2a1e4@6c48a"
+      ]
+    }
+  },
+  "7b91ba97-9069-4888-9557-1575655c2b3b@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_px.png@f9941",
+    "value": {
+      "depends": [
+        "7b91ba97-9069-4888-9557-1575655c2b3b@6c48a"
+      ]
+    }
+  },
+  "490cf22f-08af-4cac-8179-77e00bd87254@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_ny.png@f9941",
+    "value": {
+      "depends": [
+        "490cf22f-08af-4cac-8179-77e00bd87254@6c48a"
+      ]
+    }
+  },
+  "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_px.jpg@f9941",
+    "value": {
+      "depends": [
+        "bfc2fcd8-1e4b-438d-85e7-2dfdc6c066fe@6c48a"
+      ]
+    }
+  },
+  "0277300e-660e-428b-b04c-8631e041fb22@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_py.png@f9941",
+    "value": {
+      "depends": [
+        "0277300e-660e-428b-b04c-8631e041fb22@6c48a"
+      ]
+    }
+  },
+  "04c9290b-3162-4b4f-be13-b2d4f03676ca@f9941": {
+    "url": "db://assets/sprites/space_cubemap/_pz.png@f9941",
+    "value": {
+      "depends": [
+        "04c9290b-3162-4b4f-be13-b2d4f03676ca@6c48a"
+      ]
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2": {
+    "url": "db://assets/sprites/space1.jpg",
+    "value": {}
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@6c48a": {
+    "url": "db://assets/sprites/space1.jpg@6c48a",
+    "value": {
+      "depends": [
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2"
+      ]
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0": {
+    "url": "db://assets/sprites/space1.jpg@b47c0",
+    "value": {
+      "depends": [
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@e9a6d",
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@40c10",
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@8fd34",
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@74afd",
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@bb97f",
+        "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@7d38f"
+      ]
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@74afd": {
+    "url": "db://assets/sprites/space1.jpg@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@8fd34": {
+    "url": "db://assets/sprites/space1.jpg@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@bb97f": {
+    "url": "db://assets/sprites/space1.jpg@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@7d38f": {
+    "url": "db://assets/sprites/space1.jpg@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space1.jpg@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "c22eff91-5b1d-454a-9fb5-c05b56bbbdb2@b47c0@40c10": {
+    "url": "db://assets/sprites/space1.jpg@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c": {
+    "url": "db://assets/sprites/space1_reflection.png",
+    "value": {}
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0",
+    "value": {
+      "depends": [
+        "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@e9a6d",
+        "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@40c10",
+        "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@8fd34",
+        "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@74afd",
+        "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@bb97f",
+        "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@7d38f"
+      ]
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@74afd": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@8fd34": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@bb97f": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@7d38f": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@e9a6d": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "996c14bd-622a-4778-8448-7d9a7b51af1c@b47c0@40c10": {
+    "url": "db://assets/sprites/space1_reflection.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "5ebb9845-4841-4db1-bf06-f403fd1ac208": {
+    "url": "db://assets/sprites/skybox/cubemap.cubemap",
+    "value": {
+      "depends": [
+        "79c984f8-4949-4368-962f-f3763a795bfc",
+        "05d71325-ff88-4f3f-9366-ea02f908a685",
+        "aa4bddd6-79f0-4b20-8046-9fc6608e2f83",
+        "dffc4aac-2d9c-4c3d-8080-9488f3cf1f7c",
+        "0ad06e65-0b2e-466c-bee7-cc0d58408f15",
+        "86adcba3-d253-4e9a-bb1b-8cd35b55c653"
+      ]
+    }
+  },
+  "86adcba3-d253-4e9a-bb1b-8cd35b55c653": {
+    "url": "db://assets/sprites/skybox/bottom.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "79c984f8-4949-4368-962f-f3763a795bfc": {
+    "url": "db://assets/sprites/skybox/front.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "05d71325-ff88-4f3f-9366-ea02f908a685": {
+    "url": "db://assets/sprites/skybox/back.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "acbead1e-9610-4059-af69-2b9c32e05569": {
+    "url": "db://assets/sprites/cubemap.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "0ad06e65-0b2e-466c-bee7-cc0d58408f15": {
+    "url": "db://assets/sprites/skybox/top.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "86adcba3-d253-4e9a-bb1b-8cd35b55c653@6c48a": {
+    "url": "db://assets/sprites/skybox/bottom.png@6c48a",
+    "value": {
+      "depends": [
+        "86adcba3-d253-4e9a-bb1b-8cd35b55c653"
+      ]
+    }
+  },
+  "aa4bddd6-79f0-4b20-8046-9fc6608e2f83": {
+    "url": "db://assets/sprites/skybox/left.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "05d71325-ff88-4f3f-9366-ea02f908a685@6c48a": {
+    "url": "db://assets/sprites/skybox/back.png@6c48a",
+    "value": {
+      "depends": [
+        "05d71325-ff88-4f3f-9366-ea02f908a685"
+      ]
+    }
+  },
+  "dffc4aac-2d9c-4c3d-8080-9488f3cf1f7c": {
+    "url": "db://assets/sprites/skybox/right.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "79c984f8-4949-4368-962f-f3763a795bfc@6c48a": {
+    "url": "db://assets/sprites/skybox/front.png@6c48a",
+    "value": {
+      "depends": [
+        "79c984f8-4949-4368-962f-f3763a795bfc"
+      ]
+    }
+  },
+  "0ad06e65-0b2e-466c-bee7-cc0d58408f15@6c48a": {
+    "url": "db://assets/sprites/skybox/top.png@6c48a",
+    "value": {
+      "depends": [
+        "0ad06e65-0b2e-466c-bee7-cc0d58408f15"
+      ]
+    }
+  },
+  "aa4bddd6-79f0-4b20-8046-9fc6608e2f83@6c48a": {
+    "url": "db://assets/sprites/skybox/left.png@6c48a",
+    "value": {
+      "depends": [
+        "aa4bddd6-79f0-4b20-8046-9fc6608e2f83"
+      ]
+    }
+  },
+  "dffc4aac-2d9c-4c3d-8080-9488f3cf1f7c@6c48a": {
+    "url": "db://assets/sprites/skybox/right.png@6c48a",
+    "value": {
+      "depends": [
+        "dffc4aac-2d9c-4c3d-8080-9488f3cf1f7c"
+      ]
+    }
+  },
+  "acbead1e-9610-4059-af69-2b9c32e05569@6c48a": {
+    "url": "db://assets/sprites/cubemap.png@6c48a",
+    "value": {
+      "depends": [
+        "acbead1e-9610-4059-af69-2b9c32e05569"
+      ]
+    }
+  },
+  "2d041160-f36a-4c90-99ef-5bddb71d2c33": {
+    "url": "db://assets/sprites/skybox",
+    "value": {}
+  },
+  "42ed3ec6-9d9a-4508-9085-9d9c0c764cab": {
+    "url": "db://assets/models/$RXLBX9G.bin",
+    "value": {}
+  },
+  "1c83092b-4cb9-42bd-baf6-f07429e2ab21": {
+    "url": "db://assets/sprites/skybox/cubemap.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "1c83092b-4cb9-42bd-baf6-f07429e2ab21@6c48a": {
+    "url": "db://assets/sprites/skybox/cubemap.png@6c48a",
+    "value": {
+      "depends": [
+        "1c83092b-4cb9-42bd-baf6-f07429e2ab21"
+      ]
+    }
+  },
+  "47f37c87-cff5-4301-8442-4a229f367e7d": {
+    "url": "db://assets/models/scene.bin",
+    "value": {}
+  },
+  "70ac204e-9a62-41ca-a6e5-83cd4e4c059c": {
+    "url": "db://assets/models/textures",
+    "value": {}
+  },
+  "92ff7bc3-2581-43ab-85ca-8384656ddee7": {
+    "url": "db://assets/models/textures/Default_OBJ_baseColor.png",
+    "value": {}
+  },
+  "92ff7bc3-2581-43ab-85ca-8384656ddee7@6c48a": {
+    "url": "db://assets/models/textures/Default_OBJ_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "92ff7bc3-2581-43ab-85ca-8384656ddee7"
+      ]
+    }
+  },
+  "4e7e33bd-21b3-4a54-8971-150cc3bc0929": {
+    "url": "db://assets/models/scene.gltf",
+    "value": {}
+  },
+  "4e7e33bd-21b3-4a54-8971-150cc3bc0929@4f4f4": {
+    "url": "db://assets/models/scene.gltf@4f4f4",
+    "value": {
+      "depends": []
+    }
+  },
+  "4e7e33bd-21b3-4a54-8971-150cc3bc0929@db32a": {
+    "url": "db://assets/models/scene.gltf@db32a",
+    "value": {
+      "depends": []
+    }
+  },
+  "4e7e33bd-21b3-4a54-8971-150cc3bc0929@e39f7": {
+    "url": "db://assets/models/scene.gltf@e39f7",
+    "value": {
+      "depends": [
+        "92ff7bc3-2581-43ab-85ca-8384656ddee7"
+      ]
+    }
+  },
+  "4e7e33bd-21b3-4a54-8971-150cc3bc0929@c419e": {
+    "url": "db://assets/models/scene.gltf@c419e",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "4e7e33bd-21b3-4a54-8971-150cc3bc0929@e39f7"
+      ]
+    }
+  },
+  "4e7e33bd-21b3-4a54-8971-150cc3bc0929@d1932": {
+    "url": "db://assets/models/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "4e7e33bd-21b3-4a54-8971-150cc3bc0929@c419e",
+        "4e7e33bd-21b3-4a54-8971-150cc3bc0929@4f4f4",
+        "4e7e33bd-21b3-4a54-8971-150cc3bc0929@c419e",
+        "4e7e33bd-21b3-4a54-8971-150cc3bc0929@db32a"
+      ]
+    }
+  },
+  "8871c5b6-10aa-4c77-8a7e-ac62c36b0329": {
+    "url": "db://assets/models/astroid",
+    "value": {}
+  },
+  "f24405c8-d043-4299-a0db-136c613002ce": {
+    "url": "db://assets/models/astroid/textures",
+    "value": {}
+  },
+  "30f27b3b-1b27-41b4-ae40-e0d19b4bc384": {
+    "url": "db://assets/models/astroid/scene.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "7d1076d3-47d0-4419-af49-0c815536f0e8": {
+    "url": "db://assets/models/astroid/scene.gltf",
+    "value": {}
+  },
+  "a8ae42e1-b220-42c8-a4fd-38f5004bdeef": {
+    "url": "db://assets/models/astroid/license.txt",
+    "value": {
+      "depends": []
+    }
+  },
+  "20780937-c931-4bfa-84df-a3b7159084d4": {
+    "url": "db://assets/models/astroid/textures/Default_OBJ_baseColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "20780937-c931-4bfa-84df-a3b7159084d4@6c48a": {
+    "url": "db://assets/models/astroid/textures/Default_OBJ_baseColor.png@6c48a",
+    "value": {
+      "depends": [
+        "20780937-c931-4bfa-84df-a3b7159084d4"
+      ]
+    }
+  },
+  "7d1076d3-47d0-4419-af49-0c815536f0e8@4f4f4": {
+    "url": "db://assets/models/astroid/scene.gltf@4f4f4",
+    "value": {
+      "depends": []
+    }
+  },
+  "7d1076d3-47d0-4419-af49-0c815536f0e8@db32a": {
+    "url": "db://assets/models/astroid/scene.gltf@db32a",
+    "value": {
+      "depends": []
+    }
+  },
+  "7d1076d3-47d0-4419-af49-0c815536f0e8@e39f7": {
+    "url": "db://assets/models/astroid/scene.gltf@e39f7",
+    "value": {
+      "depends": [
+        "20780937-c931-4bfa-84df-a3b7159084d4"
+      ]
+    }
+  },
+  "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e": {
+    "url": "db://assets/models/astroid/scene.gltf@c419e",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@e39f7"
+      ]
+    }
+  },
+  "7d1076d3-47d0-4419-af49-0c815536f0e8@d1932": {
+    "url": "db://assets/models/astroid/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@4f4f4",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@db32a"
+      ]
+    }
+  },
+  "ca36b7cd-d554-4c21-b3c9-e5661d18853b": {
+    "url": "db://assets/models/valkyrie_ssto_avatar",
+    "value": {}
+  },
+  "801e3a14-4bc8-4126-bde8-ac39e972683a": {
+    "url": "db://assets/models/valkyrie_ssto_avatar/scene.bin",
+    "value": {}
+  },
+  "827fb79c-ef4f-4faa-a4a3-9c0d8a5c2086": {
+    "url": "db://assets/models/valkyrie_ssto_avatar/scene.gltf",
+    "value": {}
+  },
+  "e92f6c0f-be36-4a3c-8e05-26c01166469b": {
+    "url": "db://assets/models/valkyrie_ssto_avatar/license.txt",
+    "value": {}
+  },
+  "fdae635a-c542-42a8-9a9d-dc20189acf82": {
+    "url": "db://assets/models/gate",
+    "value": {}
+  },
+  "3fe2a9d2-2ad0-4c80-95e0-65867c54ffca": {
+    "url": "db://assets/models/gate/scene.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f": {
+    "url": "db://assets/models/gate/scene.gltf",
+    "value": {}
+  },
+  "1c60f42b-0bda-4d69-ae94-703d3b722db8": {
+    "url": "db://assets/models/gate/license.txt",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@60015": {
+    "url": "db://assets/models/gate/scene.gltf@60015",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@64881": {
+    "url": "db://assets/models/gate/scene.gltf@64881",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@b96e9": {
+    "url": "db://assets/models/gate/scene.gltf@b96e9",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@66c21": {
+    "url": "db://assets/models/gate/scene.gltf@66c21",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@3c8dc": {
+    "url": "db://assets/models/gate/scene.gltf@3c8dc",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@e7c48": {
+    "url": "db://assets/models/gate/scene.gltf@e7c48",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@9b9e7": {
+    "url": "db://assets/models/gate/scene.gltf@9b9e7",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@46b1f": {
+    "url": "db://assets/models/gate/scene.gltf@46b1f",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@f41e3": {
+    "url": "db://assets/models/gate/scene.gltf@f41e3",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@0e98a": {
+    "url": "db://assets/models/gate/scene.gltf@0e98a",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@af2fb": {
+    "url": "db://assets/models/gate/scene.gltf@af2fb",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@68a7d": {
+    "url": "db://assets/models/gate/scene.gltf@68a7d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@0c02e": {
+    "url": "db://assets/models/gate/scene.gltf@0c02e",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@55b43": {
+    "url": "db://assets/models/gate/scene.gltf@55b43",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@7a3ca": {
+    "url": "db://assets/models/gate/scene.gltf@7a3ca",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@aa825": {
+    "url": "db://assets/models/gate/scene.gltf@aa825",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "2cd6be5b-3d20-4549-b8f2-87622cc4239f@d1932": {
+    "url": "db://assets/models/gate/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@55b43",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@b96e9",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@7a3ca",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@64881",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@7a3ca",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@66c21",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@aa825",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@60015",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@7a3ca",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@3c8dc",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@aa825",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@e7c48",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@7a3ca",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@9b9e7",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@aa825",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@46b1f",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@7a3ca",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@f41e3",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@aa825",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@0e98a",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@55b43",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@af2fb",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@55b43",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@68a7d",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@55b43",
+        "2cd6be5b-3d20-4549-b8f2-87622cc4239f@0c02e"
+      ]
+    }
+  },
+  "1cf8f135-a62a-406f-8f1e-72dc2e7c7ec2": {
+    "url": "db://assets/models/space_jet",
+    "value": {}
+  },
+  "f6f15bb5-5f66-40fc-9dae-8492a4d9b3d6": {
+    "url": "db://assets/models/space_jet/scene.bin",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3": {
+    "url": "db://assets/models/space_jet/scene.gltf",
+    "value": {}
+  },
+  "39ecd61d-07dd-4fb5-aada-cd83e599d21b": {
+    "url": "db://assets/models/space_jet/license.txt",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@99380": {
+    "url": "db://assets/models/space_jet/scene.gltf@99380",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@4f4f4": {
+    "url": "db://assets/models/space_jet/scene.gltf@4f4f4",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@db32a": {
+    "url": "db://assets/models/space_jet/scene.gltf@db32a",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@ba1aa": {
+    "url": "db://assets/models/space_jet/scene.gltf@ba1aa",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@9888b": {
+    "url": "db://assets/models/space_jet/scene.gltf@9888b",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@e1aed": {
+    "url": "db://assets/models/space_jet/scene.gltf@e1aed",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@450f5": {
+    "url": "db://assets/models/space_jet/scene.gltf@450f5",
+    "value": {
+      "depends": []
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@b4e6b": {
+    "url": "db://assets/models/space_jet/scene.gltf@b4e6b",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@a9549": {
+    "url": "db://assets/models/space_jet/scene.gltf@a9549",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@e736c": {
+    "url": "db://assets/models/space_jet/scene.gltf@e736c",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@d1932": {
+    "url": "db://assets/models/space_jet/scene.gltf@d1932",
+    "value": {
+      "depends": [
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@b4e6b",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@4f4f4",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@99380",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@db32a",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@a9549",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@ba1aa",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@e736c",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@9888b",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@b4e6b",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@e1aed",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@b4e6b",
+        "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@450f5"
+      ]
+    }
   }
 }

@@ -1,0 +1,196 @@
+{
+  "ver": "2.3.4",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7d1076d3-47d0-4419-af49-0c815536f0e8",
+  "files": [],
+  "subMetas": {
+    "4f4f4": {
+      "importer": "gltf-mesh",
+      "uuid": "7d1076d3-47d0-4419-af49-0c815536f0e8@4f4f4",
+      "displayName": "",
+      "id": "4f4f4",
+      "name": "Object_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db32a": {
+      "importer": "gltf-mesh",
+      "uuid": "7d1076d3-47d0-4419-af49-0c815536f0e8@db32a",
+      "displayName": "",
+      "id": "db32a",
+      "name": "Object_1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "7d1076d3-47d0-4419-af49-0c815536f0e8@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "nearest",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/models/astroid/textures/Default_OBJ_baseColor.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c419e": {
+      "importer": "gltf-material",
+      "uuid": "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
+      "displayName": "",
+      "id": "c419e",
+      "name": "Default_OBJ.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1932": {
+      "importer": "gltf-scene",
+      "uuid": "7d1076d3-47d0-4419-af49-0c815536f0e8@d1932",
+      "displayName": "",
+      "id": "d1932",
+      "name": "scene.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/models/astroid/textures/Default_OBJ_baseColor.png"
+      }
+    ],
+    "redirect": "7d1076d3-47d0-4419-af49-0c815536f0e8@d1932",
+    "assetFinder": {
+      "meshes": [
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@4f4f4",
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@db32a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@e39f7"
+      ],
+      "materials": [
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e"
+      ],
+      "scenes": [
+        "7d1076d3-47d0-4419-af49-0c815536f0e8@d1932"
+      ]
+    },
+    "materials": {
+      "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {
+            "USE_ALBEDO_MAP": true
+          },
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {
+              "cullMode": 0
+            },
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "albedoScale": {
+              "__type__": "cc.Vec3",
+              "x": 2,
+              "y": 2,
+              "z": 2
+            },
+            "emissive": {
+              "__type__": "cc.Color",
+              "r": 25,
+              "g": 25,
+              "b": 25,
+              "a": 0
+            },
+            "mainTexture": {
+              "__uuid__": "7d1076d3-47d0-4419-af49-0c815536f0e8@e39f7",
+              "__expectedType__": "cc.Texture2D"
+            }
+          },
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

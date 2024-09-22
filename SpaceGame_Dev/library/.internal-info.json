@@ -40,7 +40,7 @@
     "missing": false
   },
   "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox": {
-    "time": 1725027339130.6624,
+    "time": 1727017223948.6753,
     "uuid": "fb35be1e-4e61-457b-96fa-558ab85f72f2",
     "missing": false
   },
@@ -3350,5 +3350,69 @@
   },
   "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\dependencies\\textures\\preintegrated-skin.png.meta": {
     "time": 1725027339236.7285
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection.png.meta": {
+    "time": 1727017218789.3281
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection.png": {
+    "time": 1727017218008.6917,
+    "uuid": "2948c973-f98a-472f-ac14-09e74d6db886",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution.meta": {
+    "time": 1727017223963.6362
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_0.png.meta": {
+    "time": 1727017224037.4397
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_1.png.meta": {
+    "time": 1727017224012.5083
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_2.png.meta": {
+    "time": 1727017224003.5293
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_3.png.meta": {
+    "time": 1727017224021.4814
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_4.png.meta": {
+    "time": 1727017224042.4258
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_5.png.meta": {
+    "time": 1727017224062.3728
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution": {
+    "time": 1727017223952.6653,
+    "uuid": "d7311cff-a19b-4a92-a173-c46965c86997",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_2.png": {
+    "time": 1727017223704.9265,
+    "uuid": "d3a0b302-a3c2-44aa-869d-57f3d78df732",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_1.png": {
+    "time": 1727017223698.9436,
+    "uuid": "83e5504e-334a-4924-b79f-7638307438d7",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_3.png": {
+    "time": 1727017223706.957,
+    "uuid": "81827b2b-dfbe-4b3b-ad02-2035d99ba7b2",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_0.png": {
+    "time": 1727017223693.9956,
+    "uuid": "438c3ac6-dcec-422f-9224-1d1c244dea77",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_4.png": {
+    "time": 1727017223711.9077,
+    "uuid": "008716c5-aed3-48c4-8c57-8ef498d14fc4",
+    "missing": false
+  },
+  "D:\\cocos-dashboard-editors\\Creator\\3.7.3\\resources\\resources\\3d\\engine\\editor\\assets\\default_skybox\\default_skybox_reflection_convolution\\mipmap_5.png": {
+    "time": 1727017223716.8953,
+    "uuid": "9cc8d007-0bfb-4511-bf4c-d526ac1b066a",
+    "missing": false
   }
 }

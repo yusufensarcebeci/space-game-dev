@@ -3001,5 +3001,148 @@
         "b078dcad-656d-4ba3-b76e-70c88e63e045"
       ]
     }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0",
+    "value": {
+      "depends": [
+        "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@e9a6d",
+        "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@40c10",
+        "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@8fd34",
+        "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@74afd",
+        "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@bb97f",
+        "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@7d38f"
+      ]
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@74afd": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0@74afd",
+    "value": {
+      "depends": []
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@8fd34": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@bb97f": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@e9a6d": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
+  "2948c973-f98a-472f-ac14-09e74d6db886@b47c0@40c10": {
+    "url": "db://internal/default_skybox/default_skybox_reflection.png@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "d7311cff-a19b-4a92-a173-c46965c86997": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution",
+    "value": {}
+  },
+  "438c3ac6-dcec-422f-9224-1d1c244dea77": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_0.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "83e5504e-334a-4924-b79f-7638307438d7": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_1.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d3a0b302-a3c2-44aa-869d-57f3d78df732": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_2.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "81827b2b-dfbe-4b3b-ad02-2035d99ba7b2": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_3.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "008716c5-aed3-48c4-8c57-8ef498d14fc4": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_4.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d3a0b302-a3c2-44aa-869d-57f3d78df732@6c48a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_2.png@6c48a",
+    "value": {
+      "depends": [
+        "d3a0b302-a3c2-44aa-869d-57f3d78df732"
+      ]
+    }
+  },
+  "9cc8d007-0bfb-4511-bf4c-d526ac1b066a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_5.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "83e5504e-334a-4924-b79f-7638307438d7@6c48a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_1.png@6c48a",
+    "value": {
+      "depends": [
+        "83e5504e-334a-4924-b79f-7638307438d7"
+      ]
+    }
+  },
+  "81827b2b-dfbe-4b3b-ad02-2035d99ba7b2@6c48a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_3.png@6c48a",
+    "value": {
+      "depends": [
+        "81827b2b-dfbe-4b3b-ad02-2035d99ba7b2"
+      ]
+    }
+  },
+  "438c3ac6-dcec-422f-9224-1d1c244dea77@6c48a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_0.png@6c48a",
+    "value": {
+      "depends": [
+        "438c3ac6-dcec-422f-9224-1d1c244dea77"
+      ]
+    }
+  },
+  "008716c5-aed3-48c4-8c57-8ef498d14fc4@6c48a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_4.png@6c48a",
+    "value": {
+      "depends": [
+        "008716c5-aed3-48c4-8c57-8ef498d14fc4"
+      ]
+    }
+  },
+  "9cc8d007-0bfb-4511-bf4c-d526ac1b066a@6c48a": {
+    "url": "db://internal/default_skybox/default_skybox_reflection_convolution/mipmap_5.png@6c48a",
+    "value": {
+      "depends": [
+        "9cc8d007-0bfb-4511-bf4c-d526ac1b066a"
+      ]
+    }
   }
 }

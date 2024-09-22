@@ -299,6 +299,581 @@
       },
       "timestamp": 1726153777998
     },
+    "3e31bd38bca6b0a3271f0e9f0cf0210a80a96be7": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "dd01d2d94414505ea53aaf13cda2cbe10088eb71"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726492070811
+    },
+    "f881833c40f8a797303e06a665cca66094d8f4f1": {
+      "imports": {},
+      "timestamp": 1726856784402
+    },
+    "dd01d2d94414505ea53aaf13cda2cbe10088eb71": {
+      "imports": {},
+      "timestamp": 1726856892618
+    },
+    "b5fb81a683cb23210f13a717895f19d548abc3bc": {
+      "imports": {},
+      "timestamp": 1726856899649
+    },
+    "319cfa4da67acfd33744bd9e9c8df68a0ef9a159": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726856899705
+    },
+    "3fd07b1502f97c06e373a300cd03c63539c6c597": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726856930956
+    },
+    "8a888b5e103093c75cd395de6769419fd6e123e1": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857188411
+    },
+    "c15c50a0f71e04e513fc9df157a7e4931275f539": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "bed9338e74a15778bedfecc6aa568cc6112a7b9a"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857536410
+    },
+    "6d84e329ccaeec4a2478f554bde10329ac9a58e1": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "65292eba75e01433cc8bd67bec1a69fa040209a4"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857600353
+    },
+    "bed9338e74a15778bedfecc6aa568cc6112a7b9a": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "9a93af54ec4df016a8b226cd014bf167c5f61d1d"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "a7966b8e716c8187cd2fecaf04853dbfd6cbc60e"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857630995
+    },
+    "a26a9d31645f3766e0de6b4f6ac279ca25fcdbf7": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Module \"./UIManager\" not found for file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/components/ColliderHandler.ts"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857680017
+    },
+    "79cdd83b4338ab3b240103fd68881d9622a4afb2": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Module \"./core/GameManager\" not found for file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/managers/ObstacleManager.ts"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857715999
+    },
+    "947294eb1baa158598aa8bbc5bc611b57c644766": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Module \"./SceneFrame\" not found for file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/managers/UIManager.ts"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Module \"./Player\" not found for file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/managers/UIManager.ts"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857718430
+    },
+    "60df57d475fbddcb2ed703d14e79a45c7d099aff": {
+      "imports": {},
+      "timestamp": 1726857748272
+    },
+    "df14ca1c95dc492d6b018d823f57a542f68b9752": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857748348
+    },
+    "bd4c6afe30c52ee829d68bdc6735e661c7998b20": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Module \"./GameManager\" not found for file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/components/ScoreHandler.ts"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857862895
+    },
+    "3409d6a3aa400dc0bdb1d00b91bde92c77ad687d": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "error",
+            "text": "Error: Module \"./GameManager\" not found for file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/components/SceneFrame.ts"
+          },
+          "messages": [
+            {
+              "level": "warn",
+              "text": "Did you forget the extension? Please note that you can not omit extension in module specifier."
+            }
+          ]
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857866729
+    },
+    "772ecdb0ec8ed52eec8f327e524cd77081324881": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726857901328
+    },
+    "9a93af54ec4df016a8b226cd014bf167c5f61d1d": {
+      "imports": {},
+      "timestamp": 1726858014077
+    },
+    "a7966b8e716c8187cd2fecaf04853dbfd6cbc60e": {
+      "imports": {},
+      "timestamp": 1726858014104
+    },
+    "78b826bad7ee533f306a7533dded76cf958a2673": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726858385140
+    },
+    "578fe6ed63a1de5a289c0414c66d248a60e50e67": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "dc6721c08196cad6deae48f52f52703e7a1bb938"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726858385174
+    },
+    "b2b0919cee4cb879e19b13ec060027a3e498f23f": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "a3ae5b71a8ce3fc66c2d0834b2a7f6355632d380"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726858385251
+    },
+    "93fd40af69ffa4d45e5f916e0196526e38a50fd5": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "a3ae5b71a8ce3fc66c2d0834b2a7f6355632d380"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726859316375
+    },
+    "23ac8e47d7676ee10c68f34a1417835fad26f175": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "8a08437978878c251156b580abd12c3f739f2163"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726859429333
+    },
+    "8a08437978878c251156b580abd12c3f739f2163": {
+      "imports": {
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726859758162
+    },
+    "5e2449ba2708b43f9dc3094a74b6f49d40095a1a": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "8a08437978878c251156b580abd12c3f739f2163"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726862999501
+    },
+    "97b6ace4c11b7b324d85b501e1c798698ca373d2": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "78b826bad7ee533f306a7533dded76cf958a2673"
+          },
+          "messages": []
+        },
+        "__unresolved_2": {
+          "resolved": {
+            "type": "chunk",
+            "id": "3fd07b1502f97c06e373a300cd03c63539c6c597"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726864526963
+    },
+    "6c385b2f06c550b4a14c76d532a8d24a6d08c2ab": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "8a08437978878c251156b580abd12c3f739f2163"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1726864526994
+    },
     "86ea51a86e5d858891ef07385334b7b1017d7ca2": {
       "imports": {
         "__unresolved_0": {
@@ -498,51 +1073,13 @@
           "messages": []
         }
       },
-      "timestamp": 1726492070316
-    },
-    "ce891503335d6e4a80c1137e16874616cbd69dd6": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070374
-    },
-    "c15c50a0f71e04e513fc9df157a7e4931275f539": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "5b45bf046a68e3067eb7a745fc72fec8ccad20d0"
-          },
-          "messages": []
-        },
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070411
+      "timestamp": 1727021740734
     },
     "cceb4f795e6e637cc67c120b5b44ef3a584b486a": {
       "imports": {},
-      "timestamp": 1726492070620
+      "timestamp": 1727021740785
     },
-    "5b45bf046a68e3067eb7a745fc72fec8ccad20d0": {
+    "dc6721c08196cad6deae48f52f52703e7a1bb938": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
@@ -554,35 +1091,35 @@
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c"
+            "id": "8a08437978878c251156b580abd12c3f739f2163"
           },
           "messages": []
         },
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "3e31bd38bca6b0a3271f0e9f0cf0210a80a96be7"
+            "id": "23ac8e47d7676ee10c68f34a1417835fad26f175"
           },
           "messages": []
         },
         "__unresolved_3": {
           "resolved": {
             "type": "chunk",
-            "id": "c4f6bb2c9f9a6ab67ae5fec809620f41793c8f84"
+            "id": "32dd469f561fd2025d5e56434cb568b07b338a69"
           },
           "messages": []
         },
         "__unresolved_4": {
           "resolved": {
             "type": "chunk",
-            "id": "aa1788af034cc114fbb73203a63dab84e6aa98f6"
+            "id": "5e2449ba2708b43f9dc3094a74b6f49d40095a1a"
           },
           "messages": []
         },
         "__unresolved_5": {
           "resolved": {
             "type": "chunk",
-            "id": "775fea2ad43077dea9fb9a11ef73c7c64ca055a4"
+            "id": "97b6ace4c11b7b324d85b501e1c798698ca373d2"
           },
           "messages": []
         },
@@ -594,231 +1131,130 @@
           "messages": []
         }
       },
-      "timestamp": 1726492070709
+      "timestamp": 1727022501442
     },
-    "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070757
-    },
-    "3e31bd38bca6b0a3271f0e9f0cf0210a80a96be7": {
+    "08cf1b97de99ce4e9d8aefc881f776d3037827ad": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
             "type": "chunk",
-            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+            "id": "3fd07b1502f97c06e373a300cd03c63539c6c597"
           },
           "messages": []
         },
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c"
+            "id": "8a08437978878c251156b580abd12c3f739f2163"
           },
           "messages": []
         },
-        "cc": {
+        "__unresolved_10": {
           "resolved": {
             "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070811
-    },
-    "c4f6bb2c9f9a6ab67ae5fec809620f41793c8f84": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c"
-          },
-          "messages": []
-        },
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070879
-    },
-    "aa1788af034cc114fbb73203a63dab84e6aa98f6": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c"
-          },
-          "messages": []
-        },
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070927
-    },
-    "775fea2ad43077dea9fb9a11ef73c7c64ca055a4": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "fad12e6b0ed42c09bda07d69eda32a75e2a7e73d"
+            "id": "5a770577edb32541c35104576b70462fc34aa838"
           },
           "messages": []
         },
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "ce891503335d6e4a80c1137e16874616cbd69dd6"
-          },
-          "messages": []
-        },
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492070970
-    },
-    "fad12e6b0ed42c09bda07d69eda32a75e2a7e73d": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1726492071016
-    },
-    "46cdbec9636fb7ec603b8064da54c9454d637e58": {
-      "imports": {
-        "__unresolved_0": {
-          "resolved": {
-            "type": "chunk",
-            "id": "ce891503335d6e4a80c1137e16874616cbd69dd6"
-          },
-          "messages": []
-        },
-        "__unresolved_1": {
-          "resolved": {
-            "type": "chunk",
-            "id": "c15c50a0f71e04e513fc9df157a7e4931275f539"
-          },
-          "messages": []
-        },
-        "__unresolved_2": {
-          "resolved": {
-            "type": "chunk",
-            "id": "c4f6bb2c9f9a6ab67ae5fec809620f41793c8f84"
+            "id": "32dd469f561fd2025d5e56434cb568b07b338a69"
           },
           "messages": []
         },
         "__unresolved_3": {
           "resolved": {
             "type": "chunk",
-            "id": "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c"
+            "id": "97b6ace4c11b7b324d85b501e1c798698ca373d2"
           },
           "messages": []
         },
         "__unresolved_4": {
           "resolved": {
             "type": "chunk",
-            "id": "fad12e6b0ed42c09bda07d69eda32a75e2a7e73d"
+            "id": "578fe6ed63a1de5a289c0414c66d248a60e50e67"
           },
           "messages": []
         },
         "__unresolved_5": {
           "resolved": {
             "type": "chunk",
-            "id": "775fea2ad43077dea9fb9a11ef73c7c64ca055a4"
+            "id": "78b826bad7ee533f306a7533dded76cf958a2673"
           },
           "messages": []
         },
         "__unresolved_6": {
           "resolved": {
             "type": "chunk",
-            "id": "aa1788af034cc114fbb73203a63dab84e6aa98f6"
+            "id": "6c385b2f06c550b4a14c76d532a8d24a6d08c2ab"
           },
           "messages": []
         },
         "__unresolved_7": {
           "resolved": {
             "type": "chunk",
-            "id": "3e31bd38bca6b0a3271f0e9f0cf0210a80a96be7"
+            "id": "5e2449ba2708b43f9dc3094a74b6f49d40095a1a"
           },
           "messages": []
         },
         "__unresolved_8": {
           "resolved": {
             "type": "chunk",
-            "id": "5b45bf046a68e3067eb7a745fc72fec8ccad20d0"
+            "id": "23ac8e47d7676ee10c68f34a1417835fad26f175"
           },
           "messages": []
         },
         "__unresolved_9": {
           "resolved": {
             "type": "chunk",
-            "id": "5a770577edb32541c35104576b70462fc34aa838"
+            "id": "dc6721c08196cad6deae48f52f52703e7a1bb938"
           },
           "messages": []
         }
       },
-      "timestamp": 1726492075503
+      "timestamp": 1727029868930
+    },
+    "32dd469f561fd2025d5e56434cb568b07b338a69": {
+      "imports": {
+        "__unresolved_0": {
+          "resolved": {
+            "type": "chunk",
+            "id": "cceb4f795e6e637cc67c120b5b44ef3a584b486a"
+          },
+          "messages": []
+        },
+        "__unresolved_1": {
+          "resolved": {
+            "type": "chunk",
+            "id": "8a08437978878c251156b580abd12c3f739f2163"
+          },
+          "messages": []
+        },
+        "cc": {
+          "resolved": {
+            "type": "chunk",
+            "id": "86ea51a86e5d858891ef07385334b7b1017d7ca2"
+          },
+          "messages": []
+        }
+      },
+      "timestamp": 1727029869000
     }
   },
   "entries": {
     "cce:/internal/x/cc": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
-    "cce:/internal/x/prerequisite-imports": "46cdbec9636fb7ec603b8064da54c9454d637e58",
+    "cce:/internal/x/prerequisite-imports": "08cf1b97de99ce4e9d8aefc881f776d3037827ad",
     "file:///D:/cocos-dashboard-editors/Creator/3.7.3/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "5a770577edb32541c35104576b70462fc34aa838",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/Camera.ts": "ce891503335d6e4a80c1137e16874616cbd69dd6",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/ColliderHandler.ts": "c15c50a0f71e04e513fc9df157a7e4931275f539",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/EnemyManager.ts": "c4f6bb2c9f9a6ab67ae5fec809620f41793c8f84",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/GameManager.ts": "f05b50af6a7fbb2e853f111cbfd4c2b0462f996c",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/JoystickController.ts": "fad12e6b0ed42c09bda07d69eda32a75e2a7e73d",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/Player.ts": "775fea2ad43077dea9fb9a11ef73c7c64ca055a4",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/SceneFrame.ts": "aa1788af034cc114fbb73203a63dab84e6aa98f6",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/ScoreHandler.ts": "3e31bd38bca6b0a3271f0e9f0cf0210a80a96be7",
-    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/UIManager.ts": "5b45bf046a68e3067eb7a745fc72fec8ccad20d0"
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/CameraController.ts": "3fd07b1502f97c06e373a300cd03c63539c6c597",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/GameManager.ts": "8a08437978878c251156b580abd12c3f739f2163",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/Player.ts": "97b6ace4c11b7b324d85b501e1c798698ca373d2",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/ColliderHandler.ts": "578fe6ed63a1de5a289c0414c66d248a60e50e67",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/JoystickController.ts": "78b826bad7ee533f306a7533dded76cf958a2673",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/ObstacleMovement.ts": "6c385b2f06c550b4a14c76d532a8d24a6d08c2ab",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/PathSegment.ts": "5e2449ba2708b43f9dc3094a74b6f49d40095a1a",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/ui/ScoreHandler.ts": "23ac8e47d7676ee10c68f34a1417835fad26f175",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/ui/UIManager.ts": "dc6721c08196cad6deae48f52f52703e7a1bb938",
+    "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/ObstacleManager.ts": "32dd469f561fd2025d5e56434cb568b07b338a69"
   }
 }
