@@ -34,6 +34,13 @@
     ],
     "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\segment_material.mtl": [
       "c8f66d17-351a-48da-a12c-0212d28575c4"
+    ],
+    "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\obstacle_material.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4",
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\materials\\material.mtl": [
+      "c8f66d17-351a-48da-a12c-0212d28575c4"
     ]
   },
   "path": {
@@ -48,12 +55,6 @@
     ],
     "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\space_jet\\scene.gltf": [
       "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\space_jet\\scene.bin"
-    ],
-    "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\astroid\\scene.gltf": [
-      "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\astroid\\scene.bin"
-    ],
-    "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\astroid\\scene.gltf@e39f7": [
-      "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\astroid\\textures\\Default_OBJ_baseColor.png"
     ],
     "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\gate\\scene.gltf": [
       "D:\\CocosProjects\\bionluk\\muratcanko\\SpaceGame_Dev\\assets\\models\\gate\\scene.bin"

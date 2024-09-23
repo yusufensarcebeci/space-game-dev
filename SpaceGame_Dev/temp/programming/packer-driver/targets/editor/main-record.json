@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 12691.238999992609,
+      "mTimestamp": 21176.23829999566,
       "chunkId": "cee638a986ad8fae09398db255647defcaa6612a",
       "imports": [
         {
@@ -619,7 +619,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 8140932.350799993,
+      "mTimestamp": 9744879.202800006,
       "chunkId": "c7b3630852a39c519832234211fb0d553b547b1d",
       "imports": [
         {
@@ -1120,7 +1120,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1727021727833,
+      "mTimestamp": 1727118422667,
       "chunkId": "be027f973d8ff1c6fe3dcfebbc993118a793ec1b",
       "imports": [],
       "type": "esm",
@@ -2301,10 +2301,10 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/GameManager.ts": {
       "mTimestamp": {
-        "mtime": 1726859731109.1626,
+        "mtime": 1727127774430.771,
         "uuid": "33ad0d58-aeb9-4c48-bc1f-82ad83464985"
       },
-      "chunkId": "90d1d89e7e126d3e5c0249d51701a528ca9068c5",
+      "chunkId": "1efa92aa8a0adb7b615fb3cf1dbe9a0ca6db75ba",
       "imports": [
         {
           "value": "cc"
@@ -2317,11 +2317,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 50
+              "column": 44
             },
             "end": {
               "line": 1,
-              "column": 54
+              "column": 48
             }
           }
         }
@@ -2405,7 +2405,7 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/CameraController.ts": {
       "mTimestamp": {
-        "mtime": 1726856926933.5862,
+        "mtime": 1727127750521.688,
         "uuid": "5358396c-df97-46ab-b729-6b2d947209b6"
       },
       "chunkId": "0835b470848f0ca5e7e7fe452a70ef7353795971",
@@ -3084,10 +3084,10 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/ObstacleManager.ts": {
       "mTimestamp": {
-        "mtime": 1727029867062.674,
+        "mtime": 1727128135035.3843,
         "uuid": "b73b3009-fa7c-4ca0-9aac-a0d168f4b16a"
       },
-      "chunkId": "e7a587ed027dbd85b97709002e6fea6680296950",
+      "chunkId": "85c12e87676c4cf59cc4674e1f3c986caf67356a",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -3103,11 +3103,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 9,
+              "line": 10,
               "column": 7
             },
             "end": {
-              "line": 9,
+              "line": 10,
               "column": 11
             }
           }
@@ -3117,11 +3117,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 10,
+              "line": 11,
               "column": 39
             },
             "end": {
-              "line": 10,
+              "line": 11,
               "column": 54
             }
           }
@@ -3168,7 +3168,7 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/core/Player.ts": {
       "mTimestamp": {
-        "mtime": 1726864020770.0986,
+        "mtime": 1727128142655.1487,
         "uuid": "02516e3d-44ba-46fe-9173-25efa028b1d5"
       },
       "chunkId": "4ca0cd25c3f678b97566f9307fef1ce5b81a964f",
@@ -3273,7 +3273,7 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/ui/UIManager.ts": {
       "mTimestamp": {
-        "mtime": 1727022500163.5417,
+        "mtime": 1727128165731.7393,
         "uuid": "879b9478-d13a-457b-8a95-32ab73fedba0"
       },
       "chunkId": "6cd193f79dcc5f2a6e8bc0d684c1c03f7143fe7d",
@@ -3441,10 +3441,10 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/ui/ScoreHandler.ts": {
       "mTimestamp": {
-        "mtime": 1726859427496.7083,
+        "mtime": 1727127694224.235,
         "uuid": "99e2ebe1-0992-47e7-95a9-09f45d97dea7"
       },
-      "chunkId": "5370f4bf93ea1b90fb700b30a1342eee41277d7b",
+      "chunkId": "8cd33efd6ccf7412f18e430d9ffd55ecd311f03f",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -3525,10 +3525,10 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/ColliderHandler.ts": {
       "mTimestamp": {
-        "mtime": 1726858319612.0195,
+        "mtime": 1727127609560.725,
         "uuid": "67fb6471-cc66-48bc-ba79-b63a3b16e34e"
       },
-      "chunkId": "11dd00b1162c5cc2b808c3c83b5d877dfb0c6ede",
+      "chunkId": "c681dfbf057044fc95dcbbb7de5254f4242c5b34",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -3609,7 +3609,7 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/JoystickController.ts": {
       "mTimestamp": {
-        "mtime": 1726858342507.986,
+        "mtime": 1727127568706.537,
         "uuid": "b07d6a8e-3095-41d6-8ad1-05d63c803054"
       },
       "chunkId": "3a4b0a7c8645ea231cd9196d732ea220eb97a922",
@@ -3661,7 +3661,7 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/ObstacleMovement.ts": {
       "mTimestamp": {
-        "mtime": 1726864516918.5293,
+        "mtime": 1727128151446.367,
         "uuid": "1200620e-8e1d-4f92-83fb-81993df27ffb"
       },
       "chunkId": "a01a401b2aac2c2deea858f2e4ba748487499169",
@@ -3913,7 +3913,7 @@
     },
     "file:///D:/CocosProjects/bionluk/muratcanko/SpaceGame_Dev/assets/scripts/entities/PathSegment.ts": {
       "mTimestamp": {
-        "mtime": 1726862904779.0808,
+        "mtime": 1727128161135.2004,
         "uuid": "495f545d-0175-42ed-b995-ee95fe8c5c65"
       },
       "chunkId": "f7a16c1ffd222ae282bce574e6d5b78fdc7dfe35",

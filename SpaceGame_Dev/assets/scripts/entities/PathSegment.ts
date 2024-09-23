@@ -19,7 +19,7 @@ export class PathSegment extends Component {
     this.spawnAllSegments();
   }
 
-  private initializeSegmentPool() {
+  private initializeSegmentPool(): void {
     for (let i = 0; i < this.poolSize; i++) {
       const segment = instantiate(this.segmentPrefab);
       segment.active = true;
@@ -28,7 +28,7 @@ export class PathSegment extends Component {
     }
   }
 
-  private spawnAllSegments() {
+  private spawnAllSegments(): void {
     let positionZ = this.initialPosZ;
     this.segmentPool.forEach((segment) => {
       segment.setPosition(new Vec3(0, 0, positionZ));
@@ -36,13 +36,15 @@ export class PathSegment extends Component {
     });
   }
 
-  private resetSegment(segment: Node) {
+  private resetSegment(segment: Node): void {
     const newPositionZ = this.getFarthestSegment() - this.zOffset;
     segment.setPosition(new Vec3(0, 0, newPositionZ));
   }
 
   private getFarthestSegment(): number {
-    return Math.min(...this.segmentPool.map((segment) => segment.getPosition().z));
+    return Math.min(
+      ...this.segmentPool.map((segment) => segment.getPosition().z)
+    );
   }
 
   public resetSegmentPool() {

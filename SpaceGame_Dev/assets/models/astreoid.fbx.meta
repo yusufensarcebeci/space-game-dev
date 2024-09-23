@@ -1,0 +1,185 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4",
+  "files": [],
+  "subMetas": {
+    "60548": {
+      "importer": "gltf-scene",
+      "uuid": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@60548",
+      "displayName": "",
+      "id": "60548",
+      "name": "astreoid.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8196": {
+      "importer": "gltf-mesh",
+      "uuid": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b8196",
+      "displayName": "",
+      "id": "b8196",
+      "name": "rock.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1bbb1": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@1bbb1",
+      "displayName": "",
+      "id": "1bbb1",
+      "name": "normalmap_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "400be": {
+      "importer": "texture",
+      "uuid": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@400be",
+      "displayName": "",
+      "id": "400be",
+      "name": "normalmap_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@1bbb1"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4e6b": {
+      "importer": "gltf-material",
+      "uuid": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b4e6b",
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "normalmap_texture",
+        "uri": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@1bbb1"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@60548",
+    "assetFinder": {
+      "meshes": [
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b8196"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@400be"
+      ],
+      "materials": [
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b4e6b"
+      ],
+      "scenes": [
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@60548"
+      ]
+    },
+    "materials": {
+      "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b4e6b": {
+        "__type__": "cc.Material",
+        "_name": "",
+        "_objFlags": 0,
+        "_native": "",
+        "_effectAsset": {
+          "__uuid__": "1baf0fc9-befa-459c-8bdd-af1a450a0319",
+          "__expectedType__": "cc.EffectAsset"
+        },
+        "_techIdx": 0,
+        "_defines": [
+          {},
+          {},
+          {}
+        ],
+        "_states": [
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          },
+          {
+            "rasterizerState": {},
+            "depthStencilState": {},
+            "blendState": {
+              "targets": [
+                {}
+              ]
+            }
+          }
+        ],
+        "_props": [
+          {
+            "mainColor": {
+              "__type__": "cc.Color",
+              "r": 133,
+              "g": 133,
+              "b": 133,
+              "a": 255
+            }
+          },
+          {},
+          {}
+        ]
+      }
+    }
+  }
+}

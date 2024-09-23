@@ -15,7 +15,7 @@ export class Player extends Component {
   private readonly yMin: number = -7;
   private readonly yMax: number = 7;
 
-  public resetPlayer(){
+  public resetPlayer() :void{
     this.node.setPosition(new Vec3(0, 0, 0));
   }
 

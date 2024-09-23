@@ -237,10 +237,8 @@
     "value": {
       "depends": [
         "ba21476f-2866-4f81-9c4d-6e359316e448",
-        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
-        "7d1076d3-47d0-4419-af49-0c815536f0e8@db32a",
-        "7d1076d3-47d0-4419-af49-0c815536f0e8@c419e",
-        "7d1076d3-47d0-4419-af49-0c815536f0e8@4f4f4"
+        "024bf8ee-e256-4841-b14e-c3ed63382b91",
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b8196"
       ]
     }
   },
@@ -261,10 +259,10 @@
     "value": {}
   },
   "024bf8ee-e256-4841-b14e-c3ed63382b91": {
-    "url": "db://assets/materials/enemy_material.mtl",
+    "url": "db://assets/materials/obstacle_material.mtl",
     "value": {
       "depends": [
-        "c8f66d17-351a-48da-a12c-0212d28575c4"
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
       ]
     }
   },
@@ -1837,9 +1835,7 @@
   },
   "30f27b3b-1b27-41b4-ae40-e0d19b4bc384": {
     "url": "db://assets/models/astroid/scene.bin",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "7d1076d3-47d0-4419-af49-0c815536f0e8": {
     "url": "db://assets/models/astroid/scene.gltf",
@@ -1847,15 +1843,11 @@
   },
   "a8ae42e1-b220-42c8-a4fd-38f5004bdeef": {
     "url": "db://assets/models/astroid/license.txt",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "20780937-c931-4bfa-84df-a3b7159084d4": {
     "url": "db://assets/models/astroid/textures/Default_OBJ_baseColor.png",
-    "value": {
-      "depends": []
-    }
+    "value": {}
   },
   "20780937-c931-4bfa-84df-a3b7159084d4@6c48a": {
     "url": "db://assets/models/astroid/textures/Default_OBJ_baseColor.png@6c48a",
@@ -2181,6 +2173,102 @@
         "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@b4e6b",
         "cccdc961-b2fb-4f02-9e1a-e9a523bdf9e3@450f5"
       ]
+    }
+  },
+  "7d99dfcd-2a16-465b-a90f-c8028802f8fc": {
+    "url": "db://assets/models/rock2.obj",
+    "value": {}
+  },
+  "fc944673-9359-456f-a85e-b1de29a90cb5": {
+    "url": "db://assets/models/rock2.fbx",
+    "value": {}
+  },
+  "fc944673-9359-456f-a85e-b1de29a90cb5@41ac8": {
+    "url": "db://assets/models/rock2.fbx@41ac8",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc944673-9359-456f-a85e-b1de29a90cb5@1bbb1": {
+    "url": "db://assets/models/rock2.fbx@1bbb1",
+    "value": {
+      "depends": []
+    }
+  },
+  "fc944673-9359-456f-a85e-b1de29a90cb5@400be": {
+    "url": "db://assets/models/rock2.fbx@400be",
+    "value": {
+      "depends": [
+        "fc944673-9359-456f-a85e-b1de29a90cb5@1bbb1"
+      ]
+    }
+  },
+  "fc944673-9359-456f-a85e-b1de29a90cb5@8ada6": {
+    "url": "db://assets/models/rock2.fbx@8ada6",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "fc944673-9359-456f-a85e-b1de29a90cb5@b0ebb": {
+    "url": "db://assets/models/rock2.fbx@b0ebb",
+    "value": {
+      "depends": [
+        "fc944673-9359-456f-a85e-b1de29a90cb5@8ada6",
+        "fc944673-9359-456f-a85e-b1de29a90cb5@41ac8"
+      ]
+    }
+  },
+  "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4": {
+    "url": "db://assets/models/astreoid.fbx",
+    "value": {}
+  },
+  "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@60548": {
+    "url": "db://assets/models/astreoid.fbx@60548",
+    "value": {
+      "depends": [
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b4e6b",
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b8196"
+      ]
+    }
+  },
+  "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b8196": {
+    "url": "db://assets/models/astreoid.fbx@b8196",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@1bbb1": {
+    "url": "db://assets/models/astreoid.fbx@1bbb1",
+    "value": {
+      "depends": []
+    }
+  },
+  "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@400be": {
+    "url": "db://assets/models/astreoid.fbx@400be",
+    "value": {
+      "depends": [
+        "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@1bbb1"
+      ]
+    }
+  },
+  "5e1f6a03-ea15-479a-9cc6-12ff713fe5b4@b4e6b": {
+    "url": "db://assets/models/astreoid.fbx@b4e6b",
+    "value": {
+      "depends": [
+        "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+      ]
+    }
+  },
+  "b2f23be7-205c-491f-902d-987cd86c2cd1": {
+    "url": "db://assets/materials/material.mtl",
+    "value": {}
+  },
+  "db5a4094-4652-4f4e-80b3-c57bb3f1a29f": {
+    "url": "db://assets/scripts/todo",
+    "value": {
+      "depends": []
     }
   }
 }

@@ -29,14 +29,14 @@ export class UIManager extends Component {
     }, 1);
   }
 
-  private onPlayButtonClicked() {
+  private onPlayButtonClicked(): void {
     this.handleLoading();
     this.scheduleOnce(() => {
       this.handleGameScreen();
     }, 1);
   }
 
-  private onRetryButtonClicked() {
+  private onRetryButtonClicked(): void {
     this.handleLoading();
 
     this.obstacleManager.resetObstaclePool();
@@ -49,7 +49,7 @@ export class UIManager extends Component {
     }, 1);
   }
 
-  private onHomeButtonClicked() {
+  private onHomeButtonClicked(): void {
     this.handleLoading();
 
     this.obstacleManager.resetObstaclePool();
@@ -62,7 +62,7 @@ export class UIManager extends Component {
     }, 1);
   }
 
-  public handleInitScreen() {
+  public handleInitScreen(): void {
     this.hideAllScreens();
     if (this.initScreen) {
       this.initScreen.active = true;
@@ -70,7 +70,7 @@ export class UIManager extends Component {
     }
   }
 
-  public handleLoading() {
+  public handleLoading(): void {
     this.hideAllScreens();
     if (this.loadingScreen) {
       this.loadingScreen.active = true;
@@ -78,7 +78,7 @@ export class UIManager extends Component {
     }
   }
 
-  public handleGameScreen() {
+  public handleGameScreen(): void {
     this.hideAllScreens();
     if (this.gameScreen) {
       this.gameScreen.active = true;
@@ -93,7 +93,7 @@ export class UIManager extends Component {
     }
   }
 
-  public handleEndScreen() {
+  public handleEndScreen(): void {
     this.hideAllScreens();
     if (this.endScreen) {
       this.endScreen.active = true;
@@ -108,14 +108,14 @@ export class UIManager extends Component {
     }
   }
 
-  private hideAllScreens() {
+  private hideAllScreens(): void {
     if (this.loadingScreen) this.loadingScreen.active = false;
     if (this.initScreen) this.initScreen.active = false;
     if (this.gameScreen) this.gameScreen.active = false;
     if (this.endScreen) this.endScreen.active = false;
   }
 
-  private rotateLoadSprite(dt: number) {
+  private rotateLoadSprite(dt: number): void {
     if (!this.load) return;
     let rotZ = this.load.eulerAngles.z;
     this.load.setRotationFromEuler(0, 0, rotZ - dt * 200);

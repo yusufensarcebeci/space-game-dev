@@ -1,4 +1,4 @@
-import { _decorator, Component, Enum, Node } from "cc";
+import { _decorator, Component, Enum } from "cc";
 
 const { ccclass, property } = _decorator;
 
@@ -17,17 +17,17 @@ export class GameManager extends Component {
   @property(Number) difficultyMultiplier: number = 1;
   @property(Number) difficultyIncreaseRate: number = 0.01;
   @property(Number) maxDifficulty: number = 5;
-  
-  public setState(newState: GameState) {
+
+  public setState(newState: GameState): void {
     this.currentState = newState;
     console.warn("Current Game State: ", GameState[this.currentState]);
   }
 
-  public resetDifficulty(){
+  public resetDifficulty(): void {
     this.difficultyMultiplier = 1;
   }
 
-  private increaseDifficulty(dt: number) {
+  private increaseDifficulty(dt: number): void {
     if (this.difficultyMultiplier > this.maxDifficulty) return;
     this.difficultyMultiplier += this.difficultyIncreaseRate * dt;
   }

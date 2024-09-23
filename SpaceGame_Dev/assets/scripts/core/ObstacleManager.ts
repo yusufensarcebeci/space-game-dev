@@ -4,6 +4,7 @@ import {
   instantiate,
   Node,
   Prefab,
+  Quat,
   randomRange,
   Vec3,
 } from "cc";
@@ -31,7 +32,7 @@ export class ObstacleManager extends Component {
     this.spawnAllEnemies();
   }
 
-  private initializeObstaclePool() {
+  private initializeObstaclePool(): void {
     for (let i = 0; i < this.poolSize; i++) {
       const obstacle = instantiate(this.obstaclePrefab);
       obstacle.active = true;
@@ -40,10 +41,9 @@ export class ObstacleManager extends Component {
     }
   }
 
-  private spawnAllEnemies() {
+  private spawnAllEnemies(): void {
     let positionZ = this.initialPosZ;
     this.obstaclePool.forEach((obstacle) => {
-
       const spawnPos = new Vec3(
         randomRange(-this.spawnRangeX, this.spawnRangeX),
         randomRange(-this.spawnRangeY, this.spawnRangeY),
@@ -51,27 +51,28 @@ export class ObstacleManager extends Component {
       );
       const spawnRot = new Vec3(
         randomRange(0, 360),
-        randomRange(0, 360),
-        randomRange(0, 360)
+        randomRange(-45, 45),
+        randomRange(-45, 45)
       );
-      const spawnScale = randomRange(1.5, 3)
+      const spawnScale = randomRange(1, 4);
 
       obstacle.setPosition(spawnPos);
       obstacle.setRotationFromEuler(spawnRot);
-      // console.log(spawnScale,);
-      obstacle.setScale(new Vec3(spawnScale,spawnScale,spawnScale));
+      obstacle.setScale(new Vec3(spawnScale, spawnScale, spawnScale));
 
       positionZ -= this.zOffset;
     });
   }
 
-  private resetObstacle(obstacle: Node) {
+  private resetObstacle(obstacle: Node): void {
+    const spawnScale = randomRange(1.5, 4);
     const spawnPos = new Vec3(
       randomRange(-this.spawnRangeX, this.spawnRangeX),
       randomRange(-this.spawnRangeY, this.spawnRangeY),
       this.getFarthestObstacle() - this.zOffset
     );
     obstacle.setPosition(new Vec3(spawnPos));
+    obstacle.setScale(new Vec3(spawnScale, spawnScale, spawnScale));
   }
 
   private getFarthestObstacle(): number {
@@ -80,7 +81,7 @@ export class ObstacleManager extends Component {
     );
   }
 
-  public resetObstaclePool() {
+  public resetObstaclePool(): void {
     this.spawnAllEnemies();
   }
 
@@ -88,13 +89,23 @@ export class ObstacleManager extends Component {
     return this.gameManager?.currentState === GameState.GAME_RUNNING;
   }
 
-  update(dt: number) {
+  private rotateInRuntime(obstacle: Node, dt: number): void {
+    const currentQuat = obstacle.getRotation();
+    const rotationSpeed = 50 * dt;
+    const rotationQuat = Quat.fromEuler(new Quat(), rotationSpeed, 0, 0);
+    const newQuat = Quat.multiply(new Quat(), currentQuat, rotationQuat);
+    obstacle.setRotation(newQuat);
+  }
+
+  protected update(dt: number): void {
     if (!this.isGameRunning()) return;
 
     this.obstaclePool.forEach((obstacle) => {
       const position = obstacle.getPosition();
       position.z += this.moveSpeed * dt * this.gameManager.difficultyMultiplier;
       obstacle.setPosition(position);
+
+      this.rotateInRuntime(obstacle, dt);
 
       if (position.z > 5) {
         this.resetObstacle(obstacle);

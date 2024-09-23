@@ -7,21 +7,43 @@ export class ScoreHandler extends Component {
   @property(GameManager) gameManager: GameManager = null;
   @property(Node) scoreLabel: Node = null;
   @property(Node) gameOverScoreLabel: Node = null;
-  @property(Number) incrementInterval: number = 0.1; 
-  
+  @property(Number) incrementInterval: number = 0.1;
+
   public score: number = 0;
   private elapsedTime: number = 0;
 
-  public getScore() {
+  public getScore(): number {
     return this.score;
   }
 
-  public resetScore() {
+  private incrementScore(): void {
+    this.score += 1;
+  }
+
+  private updateScoreLabel(): void {
+    if (this.scoreLabel) {
+      const label = this.scoreLabel.getComponent(Label);
+      if (label) {
+        label.string = `${this.score}`;
+      }
+    }
+  }
+
+  public updategameOverScoreLabel(): void {
+    if (this.gameOverScoreLabel) {
+      const label = this.gameOverScoreLabel.getComponent(Label);
+      if (label) {
+        label.string = `Your Score: ${this.score}`;
+      }
+    }
+  }
+
+  public resetScore(): number {
     this.score = 0;
     return this.score;
   }
 
-  protected update(dt: number) {
+  protected update(dt: number): void {
     if (this.gameManager.currentState != GameState.GAME_RUNNING) return;
 
     this.elapsedTime += dt;
@@ -31,31 +53,4 @@ export class ScoreHandler extends Component {
       this.updateScoreLabel();
     }
   }
-
-  private incrementScore() {
-    this.score += 1;
-    // console.log("Score: ", this.score);
-  }
-
-  private updateScoreLabel() {
-    if (this.scoreLabel) {
-      const label = this.scoreLabel.getComponent(Label);
-      if (label) {
-        label.string = `${this.score}`;
-      }
-    }
-  }
-
-  public updategameOverScoreLabel(){
-    if (this.gameOverScoreLabel) {
-        const label = this.gameOverScoreLabel.getComponent(Label);
-        if (label) {
-          label.string = `Your Score: ${this.score}`;
-        }
-      }
-  }
 }
-
-//   public addScore(currentscore: number, value: number) {
-//     return (currentscore += value);
-//   }

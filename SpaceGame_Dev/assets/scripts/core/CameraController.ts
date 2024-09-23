@@ -9,10 +9,10 @@ export class CameraController extends Component {
   private tempVec3: Vec3 = new Vec3();
 
   protected start(): void {
-      this.node.setRotationFromEuler(this.rotOffset)
+    this.node.setRotationFromEuler(this.rotOffset);
   }
 
-  public follow(target: Node) {
+  public follow(target: Node): void {
     if (!target) return;
 
     Vec3.add(this.tempVec3, target.worldPosition, this.posOffset);

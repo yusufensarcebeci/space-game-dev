@@ -19,7 +19,7 @@ export class JoystickController extends Component {
     this.node.on(Node.EventType.TOUCH_CANCEL, this.resetJoystickPosition, this);
   }
 
-  private handleTouchMove(event: EventTouch) {
+  private handleTouchMove(event: EventTouch): void {
     const screenPos = event.getUILocation();
     const uiTransform = this.node.getComponent(UITransform);
 
@@ -56,7 +56,7 @@ export class JoystickController extends Component {
     }
   }
 
-  private resetJoystickPosition(event: EventTouch) {
+  private resetJoystickPosition(event: EventTouch): void {
     this.stick.setPosition(this.joystickCenter);
     this.direction.set(0, 0, 0);
   }
